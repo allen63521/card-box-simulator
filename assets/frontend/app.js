@@ -1,4 +1,8 @@
 const SOURCE = window.SIM_DATA;
+if (!SOURCE?.config?.formats || !Object.keys(SOURCE.config.formats).length) {
+  document.body.innerHTML = '<main class="load-error"><h1>模擬器資料未載入</h1><p>此頁是前端模板，或同一資料夾缺少 <code>data.js</code>。請開啟 build_simulator.py 產出的完整資料夾。</p></main>';
+  throw new Error('SIM_DATA is missing or has no box formats. Keep data.js beside index.html.');
+}
 const CONFIG = SOURCE.config.formats;
 
 const $ = s => document.querySelector(s);

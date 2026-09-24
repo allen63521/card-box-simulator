@@ -31,7 +31,7 @@ Determine packs per box, cards per pack, and guaranteed hits from the supplied d
    ```
 
 5. Review the script's extraction report, including `probabilityAudit`. Compare the expected non-base cards and natural autograph rate against the visible box summary during testing. Do not deliver when the base checklist is empty, a requested format has no parsed odds, or unexplained malformed rows remain material.
-6. Serve the output folder locally and test format switching, one-pack opening, open-all, completion summary, guaranteed hits, console errors, and a mobile viewport. The result also works by opening `index.html` directly.
+6. Confirm the generated folder contains non-empty `index.html`, `style.css`, `interactive.css`, `app.js`, and `data.js`. Serve that output folder locally and test format switching, one-pack opening, open-all, completion summary, guaranteed hits, console errors, and a mobile viewport. The result also works by opening its `index.html` directly. Never present or open `assets/frontend/index.html` as the finished simulator; it is only a template and has no product data.
 
 Generated simulators must show the complete card details on hover and keyboard focus. After opening a full box, show the complete box result sorted by published `1:X` denominator from highest to lowest (rarest first, base cards last).
 Autograph cards must display an explicit `AUTO` badge on the card, in hover/focus details, and in the box hit list. Never infer autograph status from rarity or the numerical denominator alone.

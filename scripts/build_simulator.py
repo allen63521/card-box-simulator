@@ -114,7 +114,12 @@ def main():
         shutil.copy2(template/name,args.output/name)
     autograph_sections = [name for name, category in section_categories.items() if category in {"AUTOGRAPH", "AUTOGRAPH RELIC"}]
     payload={"config":cfg,"sections":sections,"odds":odds,"autographSections":autograph_sections}
-    (args.output/"data.js").write_text("window.SIM_DATA="+json.dumps(payload,ensure_ascii=False,separators=(",",":"))+";",encoding="utf-8")
+    data_path = args.output/"data.js"
+    data_path.write_text("window.SIM_DATA="+json.dumps(payload,ensure_ascii=False,separators=(",",":"))+";",encoding="utf-8")
+    required_output = [args.output/name for name in ("index.html", "style.css", "interactive.css", "app.js", "data.js")]
+    missing_output = [path.name for path in required_output if not path.is_file() or path.stat().st_size == 0]
+    if missing_output:
+        raise SystemExit(f"incomplete simulator output; missing or empty: {', '.join(missing_output)}")
     auto_re = re.compile(cfg.get("autographPattern", "AUTOGRAPH|AUTOGRAPHS|AUTOGRAPHED"), re.I)
     autograph_names = tuple(clean(name).upper() for name in autograph_sections)
     def is_autograph_row(name):
