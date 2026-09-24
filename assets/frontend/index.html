@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#080b10" />
+  <title>卡盒拆盒模擬器</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-year">PACK</span><span id="brandName">CARD BOX</span></div>
+    <div class="top-title">拆盒模擬器</div>
+    <button class="icon-button" id="newBoxTop" title="重新開盒" aria-label="重新開盒">↻</button>
+  </header>
+  <main class="app-shell">
+    <aside class="left-panel">
+      <h1>選擇盒型</h1>
+      <div class="formats" id="formats"></div>
+      <div class="box-spec" id="boxSpec"></div>
+      <button class="secondary" id="newBox">開始新盒</button>
+      <details class="method">
+        <summary>機率模型說明</summary>
+        <p>逐列套用官方每包 1:X odds，特殊卡抽完後以 base 補足每包張數。Hobby／Jumbo 另套用整盒簽名保證。</p>
+      </details>
+    </aside>
+
+    <section class="stage">
+      <div class="progress-row">
+        <span id="packLabel">第 1 包</span>
+        <div class="progress"><i id="progressBar"></i></div>
+        <span id="remaining">剩餘卡包 20</span>
+      </div>
+      <div class="pack-scene" id="packScene">
+        <button class="foil-pack" id="packButton" aria-label="開下一包">
+          <span class="foil-edge"></span><b>CARD</b><strong>BREAK</strong><small id="packType">BOX</small>
+        </button>
+        <div class="cards" id="cards" aria-live="polite"></div>
+      </div>
+      <div class="stage-actions">
+        <button class="primary" id="openPack">開下一包</button>
+        <button class="secondary" id="openAll">一次開完</button>
+      </div>
+      <p class="hint" id="hint">點擊卡包開始。卡片會逐張翻開。</p>
+    </section>
+
+    <aside class="right-panel">
+      <div class="results-heading"><h2>本盒命中</h2><span id="hitCount">0</span></div>
+      <div class="summary" id="summary"></div>
+      <div class="history" id="history"><div class="empty">尚未開出特殊卡</div></div>
+    </aside>
+  </main>
+  <dialog id="finishDialog">
+    <div class="dialog-inner">
+      <p class="dialog-kicker">BOX COMPLETE</p>
+      <h2>這盒開完了</h2>
+      <div id="finishStats"></div>
+      <button class="primary" id="finishNew">再開一盒</button>
+      <button class="secondary" id="finishClose">查看完整結果</button>
+    </div>
+  </dialog>
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

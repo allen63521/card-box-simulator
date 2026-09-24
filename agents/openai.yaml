@@ -1,0 +1,4 @@
+interface:
+  display_name: "卡盒拆盒模擬器"
+  short_description: "從 odds 與 checklist 建立互動拆盒模擬器"
+  default_prompt: "Use $card-box-simulator with my odds PDF and checklist PDF to build an offline interactive box-opening simulator."
