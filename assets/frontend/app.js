@@ -41,7 +41,7 @@ function makeHit(row,forced=false){
   const denom=row.odds[oddsKey()];
   return {...subject,set:row.name,denom,forced,auto:isAuto(row.name),...rarity(denom,row.name)};
 }
-function makeBase(){const s=pick(basePool);return {...s,set:'BASE CARDS',denom:null,label:'Base',color:'#8b99a8',auto:false}}
+function makeBase(){const s=pick(basePool);return {...s,set:SOURCE.config.baseSection,denom:null,label:'Base',color:'#8b99a8',auto:false}}
 
 function generateBox(){
   const cfg=CONFIG[format], packs=[];
@@ -75,23 +75,26 @@ function renderFormats(){
 function renderSpec(){const c=CONFIG[format];$('#boxSpec').innerHTML=`<div class="spec-row"><span>每盒</span><b>${c.packs} 包</b></div><div class="spec-row"><span>每包</span><b>${c.cards} 張</b></div><div class="spec-row"><span>簽名保證</span><b>${c.guaranteedAutos?c.guaranteedAutos+' 張':'無'}</b></div><div class="spec-row"><span>機率資料</span><b>${oddRows().length} 個卡種</b></div>`;$('#packType').textContent=c.label}
 function renderProgress(){const c=CONFIG[format],done=box.index,pct=done/c.packs*100;$('#packLabel').textContent=done<c.packs?`第 ${done+1} 包`:'已開完';$('#remaining').textContent=`剩餘卡包 ${c.packs-done}`;$('#progressBar').style.width=pct+'%'}
 function renderSummary(){const h=box.hits;const rare=h.filter(x=>x.denom>=1000).length,autos=h.filter(x=>x.auto).length;$('#summary').innerHTML=`<div class="sum-cell"><b>${h.length}</b><small>特殊卡</small></div><div class="sum-cell"><b>${rare}</b><small>稀有+</small></div><div class="sum-cell"><b>${autos}</b><small>簽名</small></div>`;$('#hitCount').textContent=h.length}
-function renderHistory(){if(!box.hits.length){$('#history').innerHTML='<div class="empty">尚未開出特殊卡</div>';return}$('#history').innerHTML=[...box.hits].reverse().map(c=>`<div class="hit" style="--accent:${c.color}"><i class="hit-dot"></i><div><b>${escapeHtml(c.name)}</b><small>${escapeHtml(c.set)} · ${escapeHtml(c.team||'球隊未列')}</small></div><span class="hit-odds">1:${c.denom.toLocaleString()}</span></div>`).join('')}
+function renderHistory(){if(!box.hits.length){$('#history').innerHTML='<div class="empty">尚未開出特殊卡</div>';return}$('#history').innerHTML=[...box.hits].sort((a,b)=>b.denom-a.denom).map(c=>`<div class="hit" style="--accent:${c.color}"><i class="hit-dot"></i><div><b>${escapeHtml(c.name)} ${c.rookie?'<em class="rc-badge">RC</em>':''}</b><small>${escapeHtml(c.set)} · ${escapeHtml(c.team||'球隊未列')}</small></div><span class="hit-odds">1:${c.denom.toLocaleString()}</span></div>`).join('')}
 function escapeHtml(s=''){return s.replace(/[&<>"]/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch]))}
-function cardHtml(c,i,total){const offset=i-(total-1)/2;return `<article class="card ${c.denom?'special':''}" style="--i:${offset};--order:${i};--accent:${c.color};z-index:${i+1}"><div class="card-art"></div>${c.denom?`<span class="card-odds">1:${c.denom.toLocaleString()}</span>`:''}<div class="card-meta"><div class="card-name">${escapeHtml(c.name)}</div><div class="card-team">${escapeHtml(c.team||'2026 Baseball')}</div><div class="card-set">${escapeHtml(c.set)}</div></div></article>`}
+function cardHtml(c,i,total,boxMode=false){const offset=i-(total-1)/2;return `<article class="card ${c.denom?'special':''} ${boxMode?'box-card':''}" tabindex="0" data-card-index="${i}" aria-label="${escapeHtml(c.name)}，${escapeHtml(c.set)}" style="--i:${offset};--order:${i};--accent:${c.color};z-index:${i+1}"><div class="card-art"></div>${c.rookie?'<span class="rc-card">RC</span>':''}${c.denom?`<span class="card-odds">1:${c.denom.toLocaleString()}</span>`:''}<div class="card-meta"><div class="card-name">${escapeHtml(c.name)}</div><div class="card-team">${escapeHtml(c.team||'球隊未列')}</div><div class="card-set">${escapeHtml(c.set)}</div></div></article>`}
+function detailHtml(c){return `<div class="detail-accent" style="--accent:${c.color}"></div><div><b>${escapeHtml(c.name)} ${c.rookie?'<em class="rc-badge">RC</em>':''}</b><span>${escapeHtml(c.team||'球隊未列')} · #${escapeHtml(c.code||'—')}</span></div><div class="detail-set"><b>${escapeHtml(c.set)}</b><span>${c.denom?`官方逐包機率 1:${c.denom.toLocaleString()}`:'基本卡'}${c.auto?' · 簽名卡':''}</span></div>`}
+function bindCardDetails(cards){const detail=$('#cardDetail');document.querySelectorAll('.card').forEach(node=>{const show=()=>{const c=cards[Number(node.dataset.cardIndex)];detail.innerHTML=detailHtml(c);detail.hidden=false};node.addEventListener('mouseenter',show);node.addEventListener('focus',show)});if(cards.length){detail.innerHTML=detailHtml(cards[0]);detail.hidden=false}}
+function renderCards(cards,boxMode=false){$('#packScene').classList.toggle('box-mode',boxMode);$('#cards').classList.toggle('box-results',boxMode);$('#cards').innerHTML=cards.map((c,i)=>cardHtml(c,i,cards.length,boxMode)).join('');bindCardDetails(cards)}
 
 async function openPack(showDialog=true){
   if(busy||box.index>=CONFIG[format].packs)return;busy=true;
   const pack=box.packs[box.index];$('#cards').innerHTML='';$('#packButton').classList.add('opening');
   await new Promise(r=>setTimeout(r,430));
-  $('#packButton').style.visibility='hidden';$('#cards').innerHTML=pack.map((c,i)=>cardHtml(c,i,pack.length)).join('');
+  $('#packButton').style.visibility='hidden';renderCards(pack);
   box.opened.push(pack);box.hits.push(...pack.filter(c=>c.denom));box.index++;
   renderProgress();renderSummary();renderHistory();
   $('#hint').textContent=pack.some(c=>c.denom)?`本包命中 ${pack.filter(c=>c.denom).length} 張特殊卡`:'本包為基本卡組合';
   await new Promise(r=>setTimeout(r,Math.min(1200,380+pack.length*90)));busy=false;
   if(box.index>=CONFIG[format].packs&&showDialog)finish();
 }
-async function openAll(){if(busy)return;while(box.index<CONFIG[format].packs){await openPack(false);await new Promise(r=>setTimeout(r,70))}finish()}
-function resetStage(){const b=$('#packButton');b.classList.remove('opening');b.style.visibility='visible';$('#cards').innerHTML='';$('#hint').textContent='點擊卡包開始。卡片會逐張翻開。'}
+async function openAll(){if(busy)return;while(box.index<CONFIG[format].packs){await openPack(false);await new Promise(r=>setTimeout(r,70))}const all=box.opened.flat().sort((a,b)=>(b.denom||0)-(a.denom||0));renderCards(all,true);$('#hint').textContent='整盒結果：依官方 1:X 由高到低排列（最稀有 → Base）';finish()}
+function resetStage(){const b=$('#packButton');b.classList.remove('opening');b.style.visibility='visible';$('#packScene').classList.remove('box-mode');$('#cards').classList.remove('box-results');$('#cards').innerHTML='';$('#cardDetail').hidden=true;$('#hint').textContent='點擊卡包開始。卡片會逐張翻開。'}
 function newBox(){format=format in CONFIG?format:'hobby';box=generateBox();renderFormats();renderSpec();renderProgress();renderSummary();renderHistory();resetStage()}
 function finish(){const rare=box.hits.filter(c=>c.denom>=1000).length,autos=box.hits.filter(c=>c.auto).length;$('#finishStats').innerHTML=`共開出 <b>${box.hits.length}</b> 張特殊卡<br><b>${rare}</b> 張稀有以上 · <b>${autos}</b> 張簽名卡`;$('#finishDialog').showModal()}
 

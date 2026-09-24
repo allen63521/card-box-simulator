@@ -9,6 +9,9 @@ A Codex skill that turns a trading-card product's odds list and checklist into a
 - Preserves packs per box, cards per pack, and documented guaranteed hits.
 - Maps parallels, inserts, and autographs to checklist subject pools.
 - Generates a self-contained browser app with pack-by-pack and open-all flows.
+- Sorts full-box results by `1:X` denominator from rarest to most common.
+- Marks checklist-supported rookie cards with an `RC` badge.
+- Reveals complete card details on hover or keyboard focus.
 - Produces an extraction report for malformed or unmapped source data.
 
 ## Install

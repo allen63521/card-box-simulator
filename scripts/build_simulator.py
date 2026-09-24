@@ -32,7 +32,25 @@ def parse_checklist(text):
         code, name = parts[0], parts[1]
         if name.lower() in {"rookie", "production"}:
             continue
-        sections[current].append({"code": code, "name": name, "team": parts[2] if len(parts) > 2 else ""})
+        remainder = parts[2:]
+        rookie = any(re.fullmatch(r"(?:ROOKIE|RC)", part, re.IGNORECASE) for part in remainder)
+        team = next((part for part in remainder if not re.fullmatch(r"(?:ROOKIE|RC)", part, re.IGNORECASE)), "")
+        sections[current].append({"code": code, "name": name, "team": team, "rookie": rookie})
+    rookie_names = {
+        entry["name"].casefold()
+        for section, entries in sections.items()
+        if "ROOKIE" in section.upper()
+        for entry in entries
+    }
+    rookie_names.update(
+        entry["name"].casefold()
+        for entries in sections.values()
+        for entry in entries
+        if entry.get("rookie")
+    )
+    for entries in sections.values():
+        for entry in entries:
+            entry["rookie"] = entry.get("rookie", False) or entry["name"].casefold() in rookie_names
     return {k:v for k,v in sections.items() if v}, malformed
 
 def parse_odds(text, columns):
@@ -86,7 +104,7 @@ def main():
         count=sum(1 for r in odds if r["odds"].get(item["oddsColumn"]))
         if not count: raise SystemExit(f"no odds parsed for requested format {key}")
     template = Path(__file__).resolve().parents[1]/"assets"/"frontend"
-    for name in ("index.html","style.css","app.js"):
+    for name in ("index.html","style.css","interactive.css","app.js"):
         shutil.copy2(template/name,args.output/name)
     payload={"config":cfg,"sections":sections,"odds":odds}
     (args.output/"data.js").write_text("window.SIM_DATA="+json.dumps(payload,ensure_ascii=False,separators=(",",":"))+";",encoding="utf-8")
