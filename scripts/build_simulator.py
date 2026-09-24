@@ -13,16 +13,21 @@ def clean(value):
 
 def parse_checklist(text):
     skip = {"BASE", "INSERT", "AUTOGRAPH", "RELIC", "AUTOGRAPH RELIC"}
-    sections, current = {}, None
+    sections, current, category = {}, None, None
+    section_categories = {}
     malformed = []
     for raw in text.splitlines():
         line = clean(raw)
         if not line or line.lower().startswith(("checklists provided", "actual contents")):
             continue
+        if line in skip:
+            category, current = line, None
+            continue
         if re.fullmatch(r"[A-Z0-9][A-Z0-9 ’'&.\-]+", line) and not re.match(r"^[A-Z0-9]+-?\d+\s", line):
-            if line not in skip and len(line) > 2:
+            if len(line) > 2:
                 current = line
                 sections.setdefault(current, [])
+                section_categories[current] = category
             continue
         if not current:
             continue
@@ -51,7 +56,8 @@ def parse_checklist(text):
     for entries in sections.values():
         for entry in entries:
             entry["rookie"] = entry.get("rookie", False) or entry["name"].casefold() in rookie_names
-    return {k:v for k,v in sections.items() if v}, malformed
+    populated = {k:v for k,v in sections.items() if v}
+    return populated, malformed, {k:section_categories.get(k) for k in populated}
 
 def parse_odds(text, columns):
     token_re = re.compile(r"1:[0-9,]+|0\.\d+|-")
@@ -97,7 +103,7 @@ def main():
     work.mkdir(exist_ok=True)
     odds_text = text_from_pdf(args.odds, work/"odds.txt")
     checklist_text = text_from_pdf(args.checklist, work/"checklist.txt")
-    sections, checklist_bad = parse_checklist(checklist_text)
+    sections, checklist_bad, section_categories = parse_checklist(checklist_text)
     odds, odds_bad = parse_odds(odds_text, cfg["oddsColumns"])
     if cfg["baseSection"] not in sections: raise SystemExit(f"base section {cfg['baseSection']!r} not found; found {list(sections)[:12]}")
     for key,item in cfg["formats"].items():
@@ -106,9 +112,28 @@ def main():
     template = Path(__file__).resolve().parents[1]/"assets"/"frontend"
     for name in ("index.html","style.css","interactive.css","app.js"):
         shutil.copy2(template/name,args.output/name)
-    payload={"config":cfg,"sections":sections,"odds":odds}
+    autograph_sections = [name for name, category in section_categories.items() if category in {"AUTOGRAPH", "AUTOGRAPH RELIC"}]
+    payload={"config":cfg,"sections":sections,"odds":odds,"autographSections":autograph_sections}
     (args.output/"data.js").write_text("window.SIM_DATA="+json.dumps(payload,ensure_ascii=False,separators=(",",":"))+";",encoding="utf-8")
-    report={"product":cfg["productName"],"oddsRows":len(odds),"checklistSections":len(sections),"subjects":sum(map(len,sections.values())),"malformedOdds":odds_bad,"malformedChecklist":checklist_bad,"formats":cfg["formats"]}
+    auto_re = re.compile(cfg.get("autographPattern", "AUTOGRAPH|AUTOGRAPHS|AUTOGRAPHED"), re.I)
+    autograph_names = tuple(clean(name).upper() for name in autograph_sections)
+    def is_autograph_row(name):
+        normalized = clean(name).upper()
+        return bool(auto_re.search(name)) or any(section in normalized for section in autograph_names)
+    probability_audit = {}
+    for key, item in cfg["formats"].items():
+        column = item["oddsColumn"]
+        rows = [row for row in odds if row["odds"].get(column)]
+        expected_hits = sum(1 / row["odds"][column] for row in rows)
+        expected_autos = sum(1 / row["odds"][column] for row in rows if is_autograph_row(row["name"]))
+        probability_audit[key] = {
+            "publishedRows": len(rows),
+            "expectedNonBasePerPack": round(expected_hits, 6),
+            "expectedNonBasePerBox": round(expected_hits * item["packs"], 6),
+            "naturalExpectedAutosPerBox": round(expected_autos * item["packs"], 6),
+            "guaranteedAutosPerBox": int(item.get("guaranteedAutos", 0)),
+        }
+    report={"product":cfg["productName"],"oddsRows":len(odds),"checklistSections":len(sections),"subjects":sum(map(len,sections.values())),"autographSections":autograph_sections,"malformedOdds":odds_bad,"malformedChecklist":checklist_bad,"formats":cfg["formats"],"probabilityAudit":probability_audit}
     (args.output/"extraction-report.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
     shutil.rmtree(work)
     print(json.dumps(report,ensure_ascii=False,indent=2))
