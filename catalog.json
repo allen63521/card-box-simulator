@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "defaultProduct": "2026-topps-series-1-baseball",
+  "products": [
+    {
+      "id": "2026-topps-series-1-baseball",
+      "path": "products/2026-topps-series-1-baseball/product.json"
+    },
+    {
+      "id": "2026-topps-chrome-baseball",
+      "path": "products/2026-topps-chrome-baseball/product.json"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#080b10" />
+  <title>卡盒拆盒模擬器</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="stylesheet" href="./interactive.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-year">PACK</span><span id="brandName">CARD BOX</span></div>
+    <div class="top-title">拆盒模擬器</div>
+    <button class="icon-button" id="newBoxTop" title="重新開盒" aria-label="重新開盒">↻</button>
+  </header>
+  <main class="app-shell">
+    <aside class="left-panel">
+      <h1>選擇盒型</h1>
+      <div class="formats" id="formats"></div>
+      <div class="box-spec" id="boxSpec"></div>
+      <button class="secondary" id="newBox">開始新盒</button>
+      <details class="method">
+        <summary>機率模型說明</summary>
+        <p>逐列以獨立事件套用每包 1:X；超過包內張數時保留較稀有卡，再以 Base 補足。Hobby／Jumbo／Delight 僅在自然簽名不足時補足保證。官方未公開裝箱相關性，此為近似模擬；同系列球員採均勻抽樣，不推定各球員產量。</p>
+      <p>來源異常：2025 世界冠軍 Gold 簽名的 Hobby 與 Delight 機率格式有誤，已排除兩格。Fanatics 欄保留於資料，尚未開放盒型。</p><a href="extraction-report.json" target="_blank">查看完整資料稽核</a></details>
+    </aside>
+
+    <section class="stage">
+      <div class="progress-row">
+        <span id="packLabel">第 1 包</span>
+        <div class="progress"><i id="progressBar"></i></div>
+        <span id="remaining">剩餘卡包 20</span>
+      </div>
+      <div class="pack-scene" id="packScene">
+        <button class="foil-pack" id="packButton" aria-label="開下一包">
+          <span class="foil-edge"></span><b>CARD</b><strong>BREAK</strong><small id="packType">BOX</small>
+        </button>
+        <div class="cards" id="cards" aria-live="polite"></div>
+      </div>
+      <div class="card-detail" id="cardDetail" aria-live="polite" hidden></div>
+      <div class="stage-actions">
+        <button class="primary" id="openPack">開下一包</button>
+        <button class="secondary" id="openAll">一次開完</button>
+      </div>
+      <p class="hint" id="hint">點擊卡包開始。卡片會逐張翻開。</p>
+    </section>
+
+    <aside class="right-panel">
+      <div class="results-heading"><h2>本盒命中</h2><span id="hitCount">0</span></div>
+      <div class="summary" id="summary"></div>
+      <div class="history" id="history"><div class="empty">尚未開出特殊卡</div></div>
+    </aside>
+  </main>
+  <dialog id="finishDialog">
+    <div class="dialog-inner">
+      <p class="dialog-kicker">BOX COMPLETE</p>
+      <h2>這盒開完了</h2>
+      <div id="finishStats"></div>
+      <button class="primary" id="finishNew">再開一盒</button>
+      <button class="secondary" id="finishClose">查看完整結果</button>
+    </div>
+  </dialog>
+  <script src="./data.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

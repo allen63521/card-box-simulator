@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#080b10">
+<title>Card Pack Library · 拆盒模擬器</title>
+<link rel="stylesheet" href="style.css"><link rel="stylesheet" href="interactive.css">
+</head>
+<body>
+<header class="topbar"><div class="brand"><span class="brand-year">PACK</span><span>CARD PACK LIBRARY</span></div><div class="top-title">你的離線卡包收藏庫</div><button class="icon-button" id="newBoxTop" title="重新開盒" aria-label="重新開盒">↻</button></header>
+<main class="app-shell">
+<aside class="left-panel">
+ <div class="library-heading"><h1>卡包選單</h1><span id="productCount"></span></div>
+ <label class="field-label" for="productSelect">選擇系列</label><select id="productSelect"></select>
+ <p class="library-note">切換系列與盒型會保留本次拆盒進度。</p>
+ <div class="catalog-meta" id="productMeta"></div>
+ <h2 class="format-heading">選擇盒型</h2><div class="formats" id="formats"></div><div class="box-spec" id="boxSpec"></div>
+ <button class="secondary" id="newBox">開始新盒</button>
+ <details class="method"><summary>原始 PDF 與系列資料</summary><div id="sourceLinks"></div><ul id="productNotes"></ul></details>
+ <details class="method"><summary>機率模型說明</summary><p>依目前系列、盒型的每包 1:X 逐列獨立抽樣。超出張數時保留較稀有卡，其他位置補入 Base。簽名或 Relic 保證只補自然抽樣的不足，替換 Base；同一張卡不會重複滿足兩張保證。</p><p>有保底的盒型會對超過保底的同類 hit 套用保留率，降低獨立抽樣加保底造成的爆配頻率。官方未公布工廠裝箱相關性；此為可重現的近似模擬，各系列球員均勻抽樣，平行卡沿用母系列名單。</p></details>
+</aside>
+<section class="stage">
+ <div class="series-heading"><div><p class="eyebrow">NOW OPENING</p><h1 id="brandName"></h1></div><span class="offline-badge">離線可用</span></div>
+ <p class="format-notice" id="formatNotice"></p>
+ <div class="progress-row"><span id="packLabel"></span><div class="progress"><i id="progressBar"></i></div><span id="remaining"></span></div>
+ <div class="pack-scene" id="packScene"><button class="foil-pack" id="packButton" aria-label="開下一包"><span class="foil-edge"></span><b id="packYear">2026</b><strong id="packSeries"></strong><small id="packType"></small></button><div class="cards" id="cards" aria-live="polite"></div></div>
+ <div class="card-detail" id="cardDetail" aria-live="polite" hidden></div>
+ <div class="stage-actions"><button class="primary" id="openPack">開下一包</button><button class="secondary" id="openAll">逐包開完</button></div>
+ <p class="hint" id="hint" role="status"></p><p class="error-message" id="errorMessage" role="alert" hidden></p>
+</section>
+<aside class="right-panel"><div class="results-heading"><h2>本盒命中</h2><span id="hitCount">0</span></div><div class="summary" id="summary"></div><div class="history" id="history"></div></aside>
+</main>
+<dialog id="finishDialog"><div class="dialog-inner"><p class="dialog-kicker">BOX COMPLETE</p><h2>這盒開完了</h2><div id="finishStats"></div><button class="primary" id="finishNew">再開一盒</button><button class="secondary" id="finishClose">查看完整結果</button></div></dialog>
+<script src="data.js"></script><script src="engine.js"></script><script src="app.js"></script>
+</body></html>

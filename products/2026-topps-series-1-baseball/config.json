@@ -1,0 +1,75 @@
+{
+  "productName": "2026 Topps Series 1 Baseball",
+  "language": "zh-Hant",
+  "baseSection": "BASE SET",
+  "formats": {
+    "hobby": {
+      "label": "HOBBY",
+      "oddsColumn": "hobby",
+      "packs": 20,
+      "cards": 12,
+      "guarantees": [
+        {
+          "type": "hit",
+          "count": 1
+        }
+      ],
+      "guaranteeLabel": "1 張 AUTO 或 RELIC",
+      "overGuaranteeDamping": {
+        "keepExtraRate": 0.35
+      },
+      "note": "僅模擬主卡包；不含額外 Silver Pack。",
+      "source": "https://www.topps.com/products/2026-topps-baseball-series-1-hobby-box"
+    },
+    "jumbo": {
+      "label": "HOBBY JUMBO",
+      "oddsColumn": "jumbo",
+      "packs": 10,
+      "cards": 40,
+      "guarantees": [
+        {
+          "type": "auto",
+          "count": 1
+        },
+        {
+          "type": "relic",
+          "count": 1
+        }
+      ],
+      "guaranteeLabel": "1 AUTO ＋ 1 RELIC（不同張）",
+      "overGuaranteeDamping": {
+        "keepExtraRate": 0.35
+      },
+      "note": "僅模擬主卡包；不含額外 Silver Packs。",
+      "source": "https://www.topps.com/products/2026-topps-baseball-series-1-hobby-jumbo-box"
+    },
+    "celebration": {
+      "label": "CELEBRATION MEGA",
+      "oddsColumn": "celebration",
+      "packs": 14,
+      "cards": 14,
+      "guarantees": [],
+      "guaranteeLabel": "無保證",
+      "note": "使用 odds 最右側 6533 Celebration 欄。",
+      "source": "https://www.topps.com/products/2026-topps-series-1-celebration-baseball-mega-box"
+    }
+  },
+  "notes": [
+    "本系列提供 Hobby、Jumbo、Celebration Mega 三種已核實盒型；其餘 odds 欄保留於資料。",
+    "Silver Pack 有 checklist，所附 odds 沒有其機率；目前只模擬主卡包，不虛構附贈包機率。",
+    "PDF 機率跨行、部分列欄位空白，依實際座標還原；空白視為未公布而不抽樣。",
+    "同卡號多人（League Leaders、雙簽）合併為一張卡；不同卡號的同名球員仍保留。",
+    "75 年禮品及 Iconic Buybacks 清單的重疊文字以人工對照還原；原始 PDF 完整保存。",
+    "有保底的盒型會對超過保底的同類 AUTO/RELIC hit 套用 35% 保留率，用來近似工廠裝箱的負相關。"
+  ],
+  "sources": [
+    {
+      "label": "Checklist PDF",
+      "path": "products/2026-topps-series-1-baseball/source/2026_Topps_Series_1_Baseball_Checklist_2-23.pdf"
+    },
+    {
+      "label": "Odds PDF",
+      "path": "products/2026-topps-series-1-baseball/source/2026_Topps_Baseball_Series_1_Odds.pdf"
+    }
+  ]
+}

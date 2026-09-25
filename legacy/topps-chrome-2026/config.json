@@ -1,0 +1,54 @@
+{
+  "productName": "2026 Topps Chrome Baseball",
+  "language": "zh-Hant",
+  "formats": {
+    "hobby": {
+      "label": "HOBBY",
+      "oddsColumn": "hobby",
+      "packs": 20,
+      "cards": 4,
+      "guaranteedAutos": 1
+    },
+    "jumbo": {
+      "label": "JUMBO",
+      "oddsColumn": "jumbo",
+      "packs": 12,
+      "cards": 11,
+      "guaranteedAutos": 2
+    },
+    "value": {
+      "label": "VALUE",
+      "oddsColumn": "value",
+      "packs": 7,
+      "cards": 4,
+      "guaranteedAutos": 0
+    },
+    "mega": {
+      "label": "MEGA",
+      "oddsColumn": "mega",
+      "packs": 6,
+      "cards": 7,
+      "guaranteedAutos": 0
+    },
+    "delight": {
+      "label": "DELIGHT",
+      "oddsColumn": "delight",
+      "packs": 1,
+      "cards": 12,
+      "guaranteedAutos": 2
+    }
+  },
+  "oddsColumns": [
+    "hobby",
+    "jumbo",
+    "value",
+    "mega",
+    "delight",
+    "fanatics"
+  ],
+  "baseSection": "BASE CARDS",
+  "autographPattern": "AUTOGRAPH|AUTOGRAPHS|AUTOGRAPHED",
+  "sources": [
+    "https://ripped.topps.com/2026-topps-chrome-baseball-box-comparison/"
+  ]
+}

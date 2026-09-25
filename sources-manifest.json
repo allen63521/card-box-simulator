@@ -1,0 +1,26 @@
+[
+  {
+    "product": "2026-topps-series-1-baseball",
+    "path": "products/2026-topps-series-1-baseball/source/2026_Topps_Series_1_Baseball_Checklist_2-23.pdf",
+    "bytes": 307695,
+    "sha256": "03e93e14977de6ca253f27e1d94f36c754033b2c6c03beaa15871890513f07a1"
+  },
+  {
+    "product": "2026-topps-series-1-baseball",
+    "path": "products/2026-topps-series-1-baseball/source/2026_Topps_Baseball_Series_1_Odds.pdf",
+    "bytes": 316957,
+    "sha256": "e2be54403aed5a5404b6434986278f798d1ee178fca3b1e4da5c3821d1e933f8"
+  },
+  {
+    "product": "2026-topps-chrome-baseball",
+    "path": "products/2026-topps-chrome-baseball/source/2026_Topps_Chrome_Baseball_Checklist_Final_7.22.pdf",
+    "bytes": 199186,
+    "sha256": "55bf1f46983c20bf23e8331c6da87e627020ddf02296ecf989f07afe98d17f10"
+  },
+  {
+    "product": "2026-topps-chrome-baseball",
+    "path": "products/2026-topps-chrome-baseball/source/2026_Topps_Chrome_Baseball_Odds.pdf",
+    "bytes": 230465,
+    "sha256": "5d8ef198e8c34179b2641ea2a49718f07e17198bd40bd33f06e4af67f51bcf49"
+  }
+]

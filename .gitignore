@@ -11,3 +11,5 @@ extraction-report.json
 *.zip
 dist/
 output/
+!/data.js
+!/products/**/source/*.pdf
