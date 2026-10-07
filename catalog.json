@@ -9,6 +9,10 @@
     {
       "id": "2026-topps-chrome-baseball",
       "path": "products/2026-topps-chrome-baseball/product.json"
+    },
+    {
+      "id": "2026-topps-allen-ginter-baseball",
+      "path": "products/2026-topps-allen-ginter-baseball/product.json"
     }
   ]
 }

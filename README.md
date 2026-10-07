@@ -39,7 +39,7 @@ Then invoke `$card-box-simulator` and provide an odds PDF and checklist PDF.
 
 ## Privacy
 
-Input PDFs and generated product data remain local. The skill repository contains no source checklists, source odds files, generated card data, credentials, personal paths, or analytics code.
+The repository may include manufacturer source PDFs and generated product data when a product is intentionally added to the shared catalog. It must not include credentials, personal filesystem paths, private annotations, or analytics code. Review PDF metadata and run a secrets/privacy scan before publishing new products.
 
 ## Accuracy note
 

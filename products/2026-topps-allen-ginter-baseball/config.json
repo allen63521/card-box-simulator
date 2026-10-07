@@ -1,0 +1,46 @@
+{
+  "productName": "2026 Topps Allen & Ginter Baseball",
+  "language": "zh-Hant",
+  "baseSection": "BASE CARDS",
+  "formats": {
+    "hobby": {
+      "label": "HOBBY",
+      "oddsColumn": "hobby",
+      "packs": 24,
+      "cards": 8,
+      "guarantees": [{"type": "hit", "count": 2}],
+      "guaranteeLabel": "2 張 AUTO／RELIC／RIP／PLATE",
+      "overGuaranteeDamping": {"keepExtraRate": 0.35},
+      "source": "https://ripped.topps.com/2026-allen-ginter-baseball-hobby-vs-value-box-guide/"
+    },
+    "value": {
+      "label": "VALUE BOX",
+      "oddsColumn": "value",
+      "packs": 8,
+      "cards": 6,
+      "guarantees": [],
+      "guaranteeLabel": "無保證",
+      "source": "https://ripped.topps.com/2026-allen-ginter-baseball-hobby-vs-value-box-guide/"
+    },
+    "fat": {
+      "label": "FAT PACK",
+      "oddsColumn": "fat",
+      "packs": 1,
+      "cards": 14,
+      "guarantees": [],
+      "guaranteeLabel": "無保證",
+      "source": "https://www.hobbymonitor.com/insights/2026-topps-allen-ginter-baseball-the-complete-odds-parallel-and-print-run-breakdown"
+    }
+  },
+  "notes": [
+    "官方 odds 提供 Fat Pack、Hobby、Value Box 三欄，全部納入模擬。",
+    "Hobby 採盒身與官方盒型比較頁的 24 包 × 8 張；Topps 另一篇 Collector Guide 誤列 18 包，已保留此差異供稽核。",
+    "Hobby 每盒至少 2 張 hit；hit 包含 autograph、relic、Rip Card 或 printing plate。",
+    "Value Box 為 8 包 × 6 張；Fat Pack 為單包 14 張。",
+    "多人簽名與 Double Rip 同卡號的多位人物合併為同一張卡。"
+  ],
+  "sources": [
+    {"label": "Checklist PDF", "path": "products/2026-topps-allen-ginter-baseball/source/2026_Allen_and_Ginter.pdf"},
+    {"label": "Odds PDF", "path": "products/2026-topps-allen-ginter-baseball/source/2026-09-29_MLB-ALLEN-_-GINTER-2026_Odds.pdf"}
+  ]
+}

@@ -1,7 +1,7 @@
 /* Pure product-aware simulation engine. No DOM, network or global product state. */
 (function(root){
   'use strict';
-  const matches=(card,type)=>type==='hit'?(card.auto||card.relic):Boolean(card[type]);
+  const matches=(card,type)=>type==='hit'?Boolean(card.hit??(card.auto||card.relic)):Boolean(card[type]);
   function shuffle(items,rng){for(let i=items.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[items[i],items[j]]=[items[j],items[i]]}return items}
   function weighted(rows,column,rng){let x=rng()*rows.reduce((n,r)=>n+1/r.odds[column],0);for(const row of rows){x-=1/row.odds[column];if(x<=0)return row}return rows[rows.length-1]}
   function requirements(format){return (format.guarantees||[]).flatMap(g=>Array.from({length:g.count},()=>g.type))}
@@ -38,8 +38,8 @@
     if(!rows.length||!base?.length)throw Error('Product data is incomplete.');
     for(const type of needs)if(!rows.some(r=>matches(r,type)))throw Error('No eligible '+type+' odds for guaranteed hit.');
     const pick=arr=>arr[Math.floor(rng()*arr.length)];
-    const makeHit=(row,forced=false)=>({...pick(product.sections[row.section]),productId:product.id,rowId:row.id,set:row.name,denom:row.odds[column],auto:Boolean(row.auto),relic:Boolean(row.relic),forced});
-    const makeBase=()=>({...pick(base),productId:product.id,rowId:null,set:product.config.baseSection,denom:null,auto:false,relic:false,forced:false});
+    const makeHit=(row,forced=false)=>({...pick(product.sections[row.section]),productId:product.id,rowId:row.id,set:row.name,denom:row.odds[column],auto:Boolean(row.auto),relic:Boolean(row.relic),hit:Boolean(row.hit??(row.auto||row.relic)),forced});
+    const makeBase=()=>({...pick(base),productId:product.id,rowId:null,set:product.config.baseSection,denom:null,auto:false,relic:false,hit:false,forced:false});
     for(let attempt=0;attempt<100;attempt++){
       const packs=[];let clipped=0;
       for(let p=0;p<cfg.packs;p++){

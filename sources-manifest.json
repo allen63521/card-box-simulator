@@ -22,5 +22,17 @@
     "path": "products/2026-topps-chrome-baseball/source/2026_Topps_Chrome_Baseball_Odds.pdf",
     "bytes": 230465,
     "sha256": "5d8ef198e8c34179b2641ea2a49718f07e17198bd40bd33f06e4af67f51bcf49"
+  },
+  {
+    "product": "2026-topps-allen-ginter-baseball",
+    "path": "products/2026-topps-allen-ginter-baseball/source/2026_Allen_and_Ginter.pdf",
+    "bytes": 363825,
+    "sha256": "a856119076f1b5093acd73117159a5d6c6ee7cdc57e4865cf2c4508d357a61ad"
+  },
+  {
+    "product": "2026-topps-allen-ginter-baseball",
+    "path": "products/2026-topps-allen-ginter-baseball/source/2026-09-29_MLB-ALLEN-_-GINTER-2026_Odds.pdf",
+    "bytes": 42327,
+    "sha256": "65a721d07e8530e5cf40fd0d483c1b4aec289e5a86afe6858e6b925f201b7dd4"
   }
 ]

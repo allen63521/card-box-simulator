@@ -14,7 +14,7 @@ for(const p of products){
    const box=E.generateBox(p,key,random);assert.equal(box.packs.length,cfg.packs);
    for(const pack of box.packs){assert.equal(pack.length,cfg.cards);for(const card of pack){
     assert.equal(card.productId,p.id);
-    if(card.rowId){const row=rows.get(card.rowId);assert.ok(row);assert.equal(card.denom,row.odds[cfg.oddsColumn]);assert.ok(p.sections[row.section].some(s=>s.code===card.code&&s.name===card.name));assert.equal(card.auto,row.auto);assert.equal(card.relic,row.relic)}
+    if(card.rowId){const row=rows.get(card.rowId);assert.ok(row);assert.equal(card.denom,row.odds[cfg.oddsColumn]);assert.ok(p.sections[row.section].some(s=>s.code===card.code&&s.name===card.name));assert.equal(card.auto,row.auto);assert.equal(card.relic,row.relic);assert.equal(card.hit,Boolean(row.hit??(row.auto||row.relic)))}
     else assert.ok(p.sections[p.config.baseSection].some(s=>s.code===card.code&&s.name===card.name));
    }}
    const flat=box.packs.flat();assert.deepEqual(E.missingGuarantees(flat,E.requirements(cfg)),[]);autos+=flat.filter(c=>c.auto).length;relics+=flat.filter(c=>c.relic).length;
@@ -50,4 +50,12 @@ assert.equal(series.odds.find(r=>r.name==='MASCOTS').odds.celebration,2);
 assert.equal(series.odds.find(r=>r.name==='BASE CARDS GOLD').odds.hobby,49);
 assert.ok(series.odds.filter(r=>r.name.includes('AUTOGRAPH')).every(r=>r.auto));
 assert.ok(series.odds.find(r=>r.name==='MAJOR LEAGUE MATERIAL CARDS').relic);
+const ginter=products.find(p=>p.id.includes('allen-ginter'));
+assert.equal(ginter.sections['BASE CARDS'].length,300);
+assert.equal(ginter.config.formats.hobby.packs,24);
+assert.equal(ginter.config.formats.value.cards,6);
+assert.equal(ginter.config.formats.fat.cards,14);
+assert.ok(ginter.odds.find(r=>r.name==='ALLEN & GINTER RIP CARDS').hit);
+assert.ok(ginter.odds.find(r=>r.name==='BASE CARD MINI SIZED PRINTING PLATES FRAMED').hit);
+assert.ok(ginter.sections['DUAL AUTOGRAPHS'].some(c=>c.name.includes(' / ')));
 console.log('PASS: source mappings, distinct guarantees, per-pack frequency, no unconditional extra hits.');

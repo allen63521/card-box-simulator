@@ -2,6 +2,7 @@
 import hashlib,json,subprocess,os,shutil
 from pathlib import Path
 from parse_series1 import parse_odds_pdf,parse_checklist,COLUMNS
+from build_allen_ginter import build as build_allen_ginter
 ROOT=Path(__file__).resolve().parents[1]
 P=ROOT/'products/2026-topps-series-1-baseball'
 
@@ -34,4 +35,6 @@ def build():
  (P/'product.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
  (P/'extraction-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
  print(config['productName'],report['oddsRows'],report['checklistSections'],report['subjects'])
-if __name__=='__main__':build()
+if __name__=='__main__':
+ build()
+ build_allen_ginter()
