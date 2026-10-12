@@ -67,7 +67,13 @@ assert.ok(museum.sections['DUAL ON CARD AUTOGRAPHS'].some(c=>c.name.includes(' /
 assert.ok(museum.sections['THREE PLAYER PRIMARY PIECES TRIPLE RELICS'].some(c=>c.name.includes(' / ')));
 const museumBox=E.generateBox(museum,'hobby',rng(2026)).packs.flat();
 assert.equal(museumBox.length,8);
-assert.ok(museumBox.some(c=>c.onCardAuto));
-assert.ok(museumBox.some(c=>c.autoRelic));
-assert.ok(museumBox.some(c=>c.relicOnly));
+assert.equal(museumBox.filter(c=>c.onCardAuto).length,1);
+assert.equal(museumBox.filter(c=>c.autoRelic).length,1);
+assert.equal(museumBox.filter(c=>c.relicOnly).length,1);
+for(let i=0,random=rng(2601);i<5000;i++){
+ const cards=E.generateBox(museum,'hobby',random).packs.flat();
+ assert.equal(cards.filter(c=>c.onCardAuto).length,1);
+ assert.equal(cards.filter(c=>c.autoRelic).length,1);
+ assert.equal(cards.filter(c=>c.relicOnly).length,1);
+}
 console.log('PASS: source mappings, distinct guarantees, per-pack frequency, no unconditional extra hits.');

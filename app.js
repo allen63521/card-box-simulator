@@ -29,7 +29,7 @@ function renderFormats(){
 }
 function renderSpec(){
  const c=cfg(),a=product.audit[format];
- $('#boxSpec').innerHTML=`<div class="spec-row"><span>每盒主卡包</span><b>${c.packs} 包</b></div><div class="spec-row"><span>每包</span><b>${c.cards} 張</b></div><div class="spec-row"><span>最低保證</span><b>${escapeHtml(c.guaranteeLabel)}</b></div><div class="spec-row"><span>機率資料</span><b>${oddRows().length} 個卡種</b></div><div class="audit-note">自然期望／盒（截斷與補保證前）<br>特殊卡 ${a.expectedNonBasePerBox.toFixed(2)} 張 · AUTO ${a.naturalExpectedAutosPerBox.toFixed(2)} 張${a.naturalExpectedRelicsPerBox!=null?` · RELIC ${a.naturalExpectedRelicsPerBox.toFixed(2)} 張`:''}</div>`;
+ $('#boxSpec').innerHTML=`<div class="spec-row"><span>每盒主卡包</span><b>${c.packs} 包</b></div><div class="spec-row"><span>每包</span><b>${c.cards} 張</b></div><div class="spec-row"><span>${escapeHtml(c.guaranteeHeading||'最低保證')}</span><b>${escapeHtml(c.guaranteeLabel)}</b></div><div class="spec-row"><span>機率資料</span><b>${oddRows().length} 個卡種</b></div><div class="audit-note">自然期望／盒（截斷與補保證前）<br>特殊卡 ${a.expectedNonBasePerBox.toFixed(2)} 張 · AUTO ${a.naturalExpectedAutosPerBox.toFixed(2)} 張${a.naturalExpectedRelicsPerBox!=null?` · RELIC ${a.naturalExpectedRelicsPerBox.toFixed(2)} 張`:''}</div>`;
  $('#packType').textContent=c.label;$('#formatNotice').textContent=c.note||'依官方逐包機率，探索本盒的平行卡、特卡與簽名。';
 }
 function renderProgress(){const done=box.index;$('#packLabel').textContent=done<cfg().packs?`第 ${done+1} 包`:'已開完';$('#remaining').textContent=`剩餘卡包 ${cfg().packs-done}`;$('#progressBar').style.width=(done/cfg().packs*100)+'%'}
