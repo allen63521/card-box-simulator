@@ -38,7 +38,7 @@
     if(!rows.length||!base?.length)throw Error('Product data is incomplete.');
     for(const type of needs)if(!rows.some(r=>matches(r,type)))throw Error('No eligible '+type+' odds for guaranteed hit.');
     const pick=arr=>arr[Math.floor(rng()*arr.length)];
-    const makeHit=(row,forced=false)=>({...pick(product.sections[row.section]),productId:product.id,rowId:row.id,set:row.name,denom:row.odds[column],auto:Boolean(row.auto),relic:Boolean(row.relic),hit:Boolean(row.hit??(row.auto||row.relic)),forced});
+    const makeHit=(row,forced=false)=>({...pick(product.sections[row.section]),productId:product.id,rowId:row.id,set:row.name,denom:row.odds[column],auto:Boolean(row.auto),relic:Boolean(row.relic),hit:Boolean(row.hit??(row.auto||row.relic)),onCardAuto:Boolean(row.onCardAuto),autoRelic:Boolean(row.autoRelic),relicOnly:Boolean(row.relicOnly),forced});
     const makeBase=()=>({...pick(base),productId:product.id,rowId:null,set:product.config.baseSection,denom:null,auto:false,relic:false,hit:false,forced:false});
     for(let attempt=0;attempt<100;attempt++){
       const packs=[];let clipped=0;

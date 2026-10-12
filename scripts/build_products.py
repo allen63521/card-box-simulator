@@ -3,6 +3,7 @@ import hashlib,json,subprocess,os,shutil
 from pathlib import Path
 from parse_series1 import parse_odds_pdf,parse_checklist,COLUMNS
 from build_allen_ginter import build as build_allen_ginter
+from build_museum import build as build_museum
 ROOT=Path(__file__).resolve().parents[1]
 P=ROOT/'products/2026-topps-series-1-baseball'
 
@@ -32,9 +33,10 @@ def build():
  report={'product':config['productName'],'oddsRows':len(rows),'oddsColumns':len(COLUMNS),'checklistSections':len(sections),'subjects':subjects,'cardEntries':sum(map(len,sections.values())),'baseCards':len(sections['BASE SET']),'unmappedOddsFamilies':[],'malformedOdds':[x for x in bad if x['token']],'blankOddsCells':[x for x in bad if not x['token']],'malformedChecklist':skipped,'formats':config['formats'],'probabilityAudit':data['audit'],'notes':config['notes']}
  assert len(sections['BASE SET'])==350
  assert not report['malformedOdds'] and not skipped
- (P/'product.json').write_text(json.dumps(data,ensure_ascii=False,indent=2))
- (P/'extraction-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
+ (P/'product.json').write_text(json.dumps(data,ensure_ascii=False,indent=2)+'\n')
+ (P/'extraction-report.json').write_text(json.dumps(report,ensure_ascii=False,indent=2)+'\n')
  print(config['productName'],report['oddsRows'],report['checklistSections'],report['subjects'])
 if __name__=='__main__':
  build()
  build_allen_ginter()
+ build_museum()

@@ -1,0 +1,31 @@
+{
+  "productName": "2026 Topps Museum Collection Baseball",
+  "language": "zh-Hant",
+  "baseSection": "BASE CARDS",
+  "formats": {
+    "hobby": {
+      "label": "HOBBY",
+      "oddsColumn": "hobby",
+      "packs": 1,
+      "cards": 8,
+      "guarantees": [
+        {"type": "onCardAuto", "count": 1},
+        {"type": "autoRelic", "count": 1},
+        {"type": "relicOnly", "count": 1}
+      ],
+      "guaranteeLabel": "1 ON-CARD AUTO + 1 AUTO RELIC + 1 RELIC",
+      "source": "https://www.topps.com/products/2026-topps-museum-collection-baseball-hobby-box"
+    }
+  },
+  "notes": [
+    "官方 odds 僅提供 Hobby 欄，因此模擬器只顯示 Hobby。",
+    "官方盒型為每盒 1 包、每包 8 張。",
+    "依官方產品頁主標，每盒保證 1 張 on-card autograph、1 張 autograph relic、1 張 relic；三項分開滿足，不讓同一張卡重複抵用。",
+    "Canvas Collection Museum Murals、無名單的 Originals 與 Faces of Greatness 在 checklist 未列人物，依 checklist 的隨機插入註記以 Base 球員池作可稽核 fallback。",
+    "原廠 odds 不揭露實際裝箱關聯；除盒裝保證外，各 odds 列依獨立事件模擬。"
+  ],
+  "sources": [
+    {"label": "Checklist PDF", "path": "products/2026-topps-museum-collection-baseball/source/2026_Topps_Museum_Baseball_Checklist.pdf"},
+    {"label": "Odds PDF", "path": "products/2026-topps-museum-collection-baseball/source/2026_Topps_Museum_Baseball_Odds.pdf"}
+  ]
+}

@@ -34,5 +34,17 @@
     "path": "products/2026-topps-allen-ginter-baseball/source/2026-09-29_MLB-ALLEN-_-GINTER-2026_Odds.pdf",
     "bytes": 42327,
     "sha256": "65a721d07e8530e5cf40fd0d483c1b4aec289e5a86afe6858e6b925f201b7dd4"
+  },
+  {
+    "product": "2026-topps-museum-collection-baseball",
+    "path": "products/2026-topps-museum-collection-baseball/source/2026_Topps_Museum_Baseball_Checklist.pdf",
+    "bytes": 162932,
+    "sha256": "0f2cdb7496ae528747f572e576400e9d9364f61549fc7677cfc74b2d8acbe196"
+  },
+  {
+    "product": "2026-topps-museum-collection-baseball",
+    "path": "products/2026-topps-museum-collection-baseball/source/2026_Topps_Museum_Baseball_Odds.pdf",
+    "bytes": 202538,
+    "sha256": "b3112527140a36a8da58f84e73e370432dd9e3430353cd318fb1195a9d86d177"
   }
 ]
