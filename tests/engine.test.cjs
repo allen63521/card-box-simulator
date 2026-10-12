@@ -76,4 +76,16 @@ for(let i=0,random=rng(2601);i<5000;i++){
  assert.equal(cards.filter(c=>c.autoRelic).length,1);
  assert.equal(cards.filter(c=>c.relicOnly).length,1);
 }
+const update=products.find(p=>p.id.includes('update-series'));
+assert.equal(update.sections['BASE SET'].length,350);
+assert.equal(update.odds.length,274);
+assert.deepEqual(Object.keys(update.config.formats),['jumbo','hobby','super','value']);
+assert.equal(update.config.formats.jumbo.packs,10);
+assert.equal(update.config.formats.hobby.packs,20);
+assert.equal(update.config.formats.super.cards,14);
+assert.equal(update.config.formats.value.cards,12);
+for(let i=0,random=rng(2602);i<1000;i++){
+ const cards=E.generateBox(update,'value',random).packs.flat();
+ assert.equal(cards.filter(c=>c.holiday).length,3);
+}
 console.log('PASS: source mappings, distinct guarantees, per-pack frequency, no unconditional extra hits.');

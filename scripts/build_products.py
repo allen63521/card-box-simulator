@@ -4,6 +4,7 @@ from pathlib import Path
 from parse_series1 import parse_odds_pdf,parse_checklist,COLUMNS
 from build_allen_ginter import build as build_allen_ginter
 from build_museum import build as build_museum
+from build_update import build as build_update
 ROOT=Path(__file__).resolve().parents[1]
 P=ROOT/'products/2026-topps-series-1-baseball'
 
@@ -40,3 +41,4 @@ if __name__=='__main__':
  build()
  build_allen_ginter()
  build_museum()
+ build_update()

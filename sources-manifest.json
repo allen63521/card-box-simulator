@@ -46,5 +46,17 @@
     "path": "products/2026-topps-museum-collection-baseball/source/2026_Topps_Museum_Baseball_Odds.pdf",
     "bytes": 202538,
     "sha256": "b3112527140a36a8da58f84e73e370432dd9e3430353cd318fb1195a9d86d177"
+  },
+  {
+    "product": "2026-topps-update-series-baseball",
+    "path": "products/2026-topps-update-series-baseball/source/2026_Topps_Update_Series_Baseball_Checklist_9-4.pdf",
+    "bytes": 332245,
+    "sha256": "6c734888ab92ea613fa783b53c559d1b8d7592520986de70c2163f65f4e46a5c"
+  },
+  {
+    "product": "2026-topps-update-series-baseball",
+    "path": "products/2026-topps-update-series-baseball/source/2026_Topps_Baseball_Updates_Series_Odds.pdf",
+    "bytes": 234597,
+    "sha256": "7b360b3df10d29698488d3e8aea5713e0e91aefe2e0491a2b039ad7183ab61b2"
   }
 ]

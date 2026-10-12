@@ -1,0 +1,61 @@
+{
+  "productName": "2026 Topps Update Series Baseball",
+  "language": "zh-Hant",
+  "baseSection": "BASE SET",
+  "formats": {
+    "jumbo": {
+      "label": "HOBBY JUMBO",
+      "oddsColumn": "jumbo",
+      "packs": 10,
+      "cards": 40,
+      "guarantees": [{"type": "auto", "count": 1}, {"type": "relic", "count": 1}],
+      "guaranteeLabel": "1 AUTO + 1 RELIC（不同張）",
+      "overGuaranteeDamping": {"keepExtraRate": 0.35},
+      "note": "僅模擬 10 包主卡包；不含兩包 Silver Packs。",
+      "source": "https://www.topps.com/products/2026-topps-update-series-baseball-jumbo-box"
+    },
+    "hobby": {
+      "label": "HOBBY",
+      "oddsColumn": "hobby",
+      "packs": 20,
+      "cards": 12,
+      "guarantees": [{"type": "hit", "count": 1}],
+      "guaranteeLabel": "1 AUTO 或 RELIC",
+      "overGuaranteeDamping": {"keepExtraRate": 0.35},
+      "note": "僅模擬 20 包主卡包；不含額外 Silver Pack。",
+      "source": "https://ripped.topps.com/2026-topps-update-series-baseball-box-guide/"
+    },
+    "super": {
+      "label": "MEGA / SUPER BOX",
+      "oddsColumn": "super",
+      "packs": 10,
+      "cards": 14,
+      "guarantees": [],
+      "guaranteeLabel": "無 AUTO／RELIC 保證",
+      "note": "依 odds 的 Super Box 欄；僅模擬 10 包主卡包，不含 oversized 與額外 foilboard pack。",
+      "source": "https://www.hobbymonitor.com/insights/2026-topps-update-series-baseball-the-complete-odds-parallel-and-print-run-breakdown"
+    },
+    "value": {
+      "label": "VALUE BOX",
+      "oddsColumn": "value",
+      "packs": 6,
+      "cards": 12,
+      "guarantees": [{"type": "holiday", "count": 3}],
+      "guaranteeLabel": "3 張 Holiday Base 平行卡",
+      "overGuaranteeDamping": {"keepExtraRate": 0, "groups": [{"type": "holiday", "count": 3}]},
+      "source": "https://ripped.topps.com/2026-topps-update-series-baseball-box-guide/"
+    }
+  },
+  "notes": [
+    "介面只提供使用者指定的 Jumbo、Hobby、Mega/Super、Value 四種盒型。",
+    "官方將 Mega 類大型零售盒命名為 Super Box；模擬器以 MEGA / SUPER BOX 顯示並使用 odds 的 Super Box 欄。",
+    "Hobby 與 Jumbo 只模擬主卡包，不虛構 Silver Pack odds；Super Box 也不混入 oversized 或額外 foilboard pack。",
+    "Value Box 固定 3 張 Holiday Base 平行卡；Jumbo 為 1 AUTO + 1 RELIC，Hobby 為 1 AUTO 或 RELIC。",
+    "Odds PDF 的 TOPPS 75TH ANNIVERSARY GIFTS REDEMPTION CARDS 在 Fanatics 欄印成 1:-401,280，視為來源格式錯誤並整列跳過，保留於稽核報告。",
+    "原廠未公布完整裝箱關聯；除盒裝保證外，各 odds 列依獨立事件模擬。"
+  ],
+  "sources": [
+    {"label": "Checklist PDF", "path": "products/2026-topps-update-series-baseball/source/2026_Topps_Update_Series_Baseball_Checklist_9-4.pdf"},
+    {"label": "Odds PDF", "path": "products/2026-topps-update-series-baseball/source/2026_Topps_Baseball_Updates_Series_Odds.pdf"}
+  ]
+}
