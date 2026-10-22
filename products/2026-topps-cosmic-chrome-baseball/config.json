@@ -1,0 +1,37 @@
+{
+  "productName": "2026 Topps Cosmic Chrome Baseball",
+  "language": "zh-Hant",
+  "baseSection": "BASE CARDS",
+  "formats": {
+    "hobby": {
+      "label": "HOBBY",
+      "oddsColumn": "hobby",
+      "packs": 20,
+      "cards": 4,
+      "guarantees": [],
+      "guaranteeLabel": "無 AUTO 保證",
+      "note": "20 包 × 4 張；所有特殊卡依 Hobby 官方 pack odds 模擬。",
+      "source": "https://www.topps.com/pages/topps-cosmic-chrome-baseball"
+    },
+    "lunar": {
+      "label": "LUNAR",
+      "oddsColumn": "lunar",
+      "packs": 20,
+      "cards": 4,
+      "guarantees": [],
+      "guaranteeLabel": "無 AUTO 保證",
+      "note": "20 包 × 4 張；包含 Lunar 專屬平行卡，AUTO 類別以 Lunar 官方 odds 為準。",
+      "source": "https://www.topps.com/pages/topps-cosmic-chrome-baseball"
+    }
+  },
+  "notes": [
+    "介面提供官方 odds PDF 中的 Hobby 與 Lunar 兩種盒型。",
+    "兩種盒型均為 20 包、每包 4 張；原廠未標示盒內保證簽名，因此不額外補入 AUTO。",
+    "Lunar 專屬 Lunar Eclipse 平行卡只會依 Lunar 欄配率出現。",
+    "原廠未公布完整裝箱關聯；各 odds 列依獨立事件模擬，並受每包 4 張上限限制。"
+  ],
+  "sources": [
+    {"label": "Checklist PDF", "path": "products/2026-topps-cosmic-chrome-baseball/source/2026_Cosmic_Chrome_Baseball_-_Checklist.pdf"},
+    {"label": "Odds PDF", "path": "products/2026-topps-cosmic-chrome-baseball/source/2026-09-28_2026-Topps-Cosmic-Chrome-Baseball_Odds.pdf"}
+  ]
+}

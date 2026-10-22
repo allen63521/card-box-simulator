@@ -58,5 +58,17 @@
     "path": "products/2026-topps-update-series-baseball/source/2026_Topps_Baseball_Updates_Series_Odds.pdf",
     "bytes": 234597,
     "sha256": "7b360b3df10d29698488d3e8aea5713e0e91aefe2e0491a2b039ad7183ab61b2"
+  },
+  {
+    "product": "2026-topps-cosmic-chrome-baseball",
+    "path": "products/2026-topps-cosmic-chrome-baseball/source/2026_Cosmic_Chrome_Baseball_-_Checklist.pdf",
+    "bytes": 115266,
+    "sha256": "16c0ecb860ab0fc413e3a727b73c55dcc87dc27ef769b08a50a7f62963c3e93e"
+  },
+  {
+    "product": "2026-topps-cosmic-chrome-baseball",
+    "path": "products/2026-topps-cosmic-chrome-baseball/source/2026-09-28_2026-Topps-Cosmic-Chrome-Baseball_Odds.pdf",
+    "bytes": 42164,
+    "sha256": "e891b61a1075f175b14fb82211de359ebadafb93619d9cfe379e87ee70b12e68"
   }
 ]

@@ -21,6 +21,10 @@
     {
       "id": "2026-topps-update-series-baseball",
       "path": "products/2026-topps-update-series-baseball/product.json"
+    },
+    {
+      "id": "2026-topps-cosmic-chrome-baseball",
+      "path": "products/2026-topps-cosmic-chrome-baseball/product.json"
     }
   ]
 }

@@ -1,0 +1,979 @@
+BASE
+
+Checklists provided by Topps reflect the intended configuration of that product at
+         the time of production, but actual contents and odds may vary.
+
+BASE CARDS
+          1 Shohei Ohtani             Los Angeles Dodgers®
+          2 Kyle Tucker               Los Angeles Dodgers®
+          3 Yordan Alvarez            Houston Astros®
+          4 Zach Neto                 Angels®
+          5 Jac Caglianone            Kansas City Royals®        Rookie
+          6 Jonah Tong                New York Mets®             Rookie
+          7 Chase DeLauter            Cleveland Guardians®       Rookie
+          8 Cal Raleigh               Seattle Mariners™
+          9 Zach Cole                 Houston Astros®            Rookie
+         10 Otto Kemp                 Philadelphia Phillies®     Rookie
+         11 Seiya Suzuki              Chicago Cubs®
+         12 Francisco Lindor          New York Mets®
+         13 Ronald Acuña Jr.          Atlanta Braves™
+         14 Julio Rodríguez           Seattle Mariners™
+         15 Pete Crow-Armstrong       Chicago Cubs®
+         16 Justin Crawford           Philadelphia Phillies®     Rookie
+         17 Hunter Greene             Cincinnati Reds®
+         18 Junior Caminero           Tampa Bay Rays™
+         19 Jeferson Quero            Milwaukee Brewers™         Rookie
+         20 Yandy Díaz                Tampa Bay Rays™
+         21 Munetaka Murakami         Chicago White Sox®         Rookie
+         22 Juan Soto                 New York Mets®
+         23 Carter Jensen             Kansas City Royals®        Rookie
+         24 Konnor Griffin            Pittsburgh Pirates®        Rookie
+         25 Brady House               Washington Nationals®      Rookie
+         26 Jeremiah Jackson          Baltimore Orioles®         Rookie
+         27 Travis Bazzana            Cleveland Guardians®       Rookie
+         28 Noah Schultz              Chicago White Sox®         Rookie
+         29 Heriberto Hernández       Miami Marlins®             Rookie
+         30 Samuel Basallo            Baltimore Orioles®         Rookie
+         31 Owen Caissie              Miami Marlins®             Rookie
+         32 Colby Thomas              Athletics™                 Rookie
+         33 Colson Montgomery         Chicago White Sox®         Rookie
+         34 Yoshinobu Yamamoto        Los Angeles Dodgers®
+         35 Carlos Correa             Houston Astros®
+         36 Bryce Harper              Philadelphia Phillies®
+         37 Cade Horton               Chicago Cubs®
+         38 George Springer           Toronto Blue Jays®
+         39 Gerrit Cole               New York Yankees®
+         40 JJ Wetherholt             St. Louis Cardinals®       Rookie
+         41 Noelvi Marte              Cincinnati Reds®
+         42 Jacob Wilson              Athletics™
+         43 Jazz Chisholm Jr.         New York Yankees®
+         44 Andrew McCutchen          Texas Rangers®
+         45 Brandon Sproat            Milwaukee Brewers™         Rookie
+         46 Dansby Swanson            Chicago Cubs®
+         47 Jakob Marsee              Miami Marlins®             Rookie
+         48 James Wood                Washington Nationals®
+         49 Chris Sale                Atlanta Braves™
+ 50 Nolan Arenado      Arizona Diamondbacks®
+ 51 Hunter Goodman     Colorado Rockies™
+ 52 Connelly Early     Boston Red Sox®          Rookie
+ 53 Sung-Mun Song      San Diego Padres™        Rookie
+ 54 Bryan Woo          Seattle Mariners™
+ 55 Jose Fernandez     Arizona Diamondbacks®    Rookie
+ 56 Bobby Witt Jr.     Kansas City Royals®
+ 57 Bo Bichette        New York Mets®
+ 58 Mason Miller       San Diego Padres™
+ 59 Bryan Reynolds     Pittsburgh Pirates®
+ 60 Jose Altuve        Houston Astros®
+ 61 Wyatt Langford     Texas Rangers®
+ 62 Alex Freeland      Los Angeles Dodgers®     Rookie
+ 63 Christian Moore    Angels®                  Rookie
+ 64 Hunter Barco       Pittsburgh Pirates®      Rookie
+ 65 JR Ritchie         Atlanta Braves™          Rookie
+ 66 Cam Schlittler     New York Yankees®        Rookie
+ 67 Joe Ryan           Minnesota Twins®
+ 68 Jose Corniell      Texas Rangers®           Rookie
+ 69 Eugenio Suárez     Cincinnati Reds®
+ 70 CJ Abrams          Washington Nationals®
+ 71 Trey Yesavage      Toronto Blue Jays®       Rookie
+ 72 Matt Olson         Atlanta Braves™
+ 73 Bryce Eldridge     San Francisco Giants®    Rookie
+ 74 Nolan McLean       New York Mets®           Rookie
+ 75 Tatsuya Imai       Houston Astros®          Rookie
+ 76 Elmer Rodríguez    New York Yankees®        Rookie
+ 77 Carson Benge       New York Mets®           Rookie
+ 78 Marcus Semien      New York Mets®
+ 79 Kyle Schwarber     Philadelphia Phillies®
+ 80 Corbin Carroll     Arizona Diamondbacks®
+ 81 Willy Adames       San Francisco Giants®
+ 82 Chase Dollander    Colorado Rockies™
+ 83 Luis Robert Jr.    New York Mets®
+ 84 Manny Machado      San Diego Padres™
+ 85 Trea Turner        Philadelphia Phillies®
+ 86 Mike Trout         Angels®
+ 87 Ranger Suárez      Boston Red Sox®
+ 88 Ezequiel Tovar     Colorado Rockies™
+ 89 Connor Prielipp    Minnesota Twins®         Rookie
+ 90 Freddie Freeman    Los Angeles Dodgers®
+ 91 Dylan Beavers      Baltimore Orioles®       Rookie
+ 92 Chandler Simpson   Tampa Bay Rays™
+ 93 Max Fried          New York Yankees®
+ 94 Jordan Westburg    Baltimore Orioles®
+ 95 Gunnar Henderson   Baltimore Orioles®
+ 96 Troy Melton        Detroit Tigers®          Rookie
+ 97 Ketel Marte        Arizona Diamondbacks®
+ 98 Cam Smith          Houston Astros®
+ 99 Aaron Judge        New York Yankees®
+100 Bubba Chandler     Pittsburgh Pirates®      Rookie
+101 Freddy Peralta     New York Mets®
+102 Christian Yelich   Milwaukee Brewers™
+103 Daniel Susac       San Francisco Giants®    Rookie
+104 Pete Alonso        Baltimore Orioles®
+105 Marcelo Mayer      Boston Red Sox®
+106 Cristopher Sánchez       Philadelphia Phillies®
+107 Dylan Cease              Toronto Blue Jays®
+108 Carson Whisenhunt        San Francisco Giants®    Rookie
+109 Giancarlo Stanton        New York Yankees®
+110 Ian Seymour              Tampa Bay Rays™          Rookie
+111 Will Smith               Los Angeles Dodgers®
+112 Vinnie Pasquantino       Kansas City Royals®
+113 Dylan Crews              Washington Nationals®
+114 Brice Turang             Milwaukee Brewers™
+115 Payton Tolle             Boston Red Sox®          Rookie
+116 Jarren Duran             Boston Red Sox®
+117 Maikel Garcia            Kansas City Royals®
+118 Juan Brito               Cleveland Guardians®     Rookie
+119 Ozzie Albies             Atlanta Braves™
+120 Harry Ford               Washington Nationals®    Rookie
+121 Sandy Alcantara          Miami Marlins®
+122 Roman Anthony            Boston Red Sox®          Rookie
+123 Drake Baldwin            Atlanta Braves™
+124 Tarik Skubal             Detroit Tigers®
+125 George Klassen           Angels®                  Rookie
+126 Jimmy Crooks             St. Louis Cardinals®     Rookie
+127 Deyvison De Los Santos   Miami Marlins®           Rookie
+128 Drew Gilbert             San Francisco Giants®    Rookie
+129 Alejandro Kirk           Toronto Blue Jays®
+130 Kazuma Okamoto           Toronto Blue Jays®       Rookie
+131 Cody Bellinger           New York Yankees®
+132 Kevin McGonigle          Detroit Tigers®          Rookie
+133 Jackson Merrill          San Diego Padres™
+134 Kyle Karros              Colorado Rockies™        Rookie
+135 Steven Kwan              Cleveland Guardians®
+136 Nick Kurtz               Athletics™
+137 Masyn Winn               St. Louis Cardinals®
+138 Vladimir Guerrero Jr.    Toronto Blue Jays®
+139 Brent Rooker             Athletics™
+140 Jacob deGrom             Texas Rangers®
+141 George Valera            Cleveland Guardians®     Rookie
+142 Roki Sasaki              Los Angeles Dodgers®
+143 Rafael Devers            San Francisco Giants®
+144 Zack Wheeler             Philadelphia Phillies®
+145 Jeremy Peña              Houston Astros®
+146 Javier Báez              Detroit Tigers®
+147 Fernando Tatis Jr.       San Diego Padres™
+148 Jacob Misiorowski        Milwaukee Brewers™       Rookie
+149 Alex Bregman             Chicago Cubs®
+150 CJ Kayfus                Cleveland Guardians®     Rookie
+151 Luis Morales             Athletics™               Rookie
+152 José Ramírez             Cleveland Guardians®
+153 Brandon Lowe             Pittsburgh Pirates®
+154 TJ Rumfield              Colorado Rockies™        Rookie
+155 Maximo Acosta            Miami Marlins®           Rookie
+156 Brice Matthews           Houston Astros®          Rookie
+157 Ben Rice                 New York Yankees®
+158 Garrett Crochet          Boston Red Sox®
+159 Geraldo Perdomo          Arizona Diamondbacks®
+160 Austin Riley             Atlanta Braves™
+161 Didier Fuentes           Atlanta Braves™          Rookie
+          162 Paul Skenes          Pittsburgh Pirates®
+          163 Ryan Ritter          Colorado Rockies™        Rookie
+          164 Adley Rutschman      Baltimore Orioles®
+          165 Willson Contreras    Boston Red Sox®
+          166 Iván Herrera         St. Louis Cardinals®
+          167 Matt Chapman         San Francisco Giants®
+          168 Logan Webb           San Francisco Giants®
+          169 Jackson Holliday     Baltimore Orioles®
+          170 Jonathan Aranda      Tampa Bay Rays™
+          171 Parker Messick       Cleveland Guardians®     Rookie
+          172 Oneil Cruz           Pittsburgh Pirates®
+          173 Cole Young           Seattle Mariners™        Rookie
+          174 Jackson Chourio      Milwaukee Brewers™
+          175 Gleyber Torres       Detroit Tigers®
+          176 Daylen Lile          Washington Nationals®
+          177 Andrew Painter       Philadelphia Phillies®   Rookie
+          178 Carson Williams      Tampa Bay Rays™          Rookie
+          179 Josh Naylor          Seattle Mariners™
+          180 Sal Stewart          Cincinnati Reds®         Rookie
+          181 Riley Greene         Detroit Tigers®
+          182 Corey Seager         Texas Rangers®
+          183 Lawrence Butler      Athletics™
+          184 Chase Burns          Cincinnati Reds®         Rookie
+          185 Elly De La Cruz      Cincinnati Reds®
+          186 Byron Buxton         Minnesota Twins®
+          187 Mookie Betts         Los Angeles Dodgers®
+          188 Trevor Story         Boston Red Sox®
+          189 Salvador Perez       Kansas City Royals®
+          190 Randy Arozarena      Seattle Mariners™
+          191 Yohendrick Piñango   Toronto Blue Jays®       Rookie
+          192 Jhostynxon Garcia    Pittsburgh Pirates®      Rookie
+          193 Jung Hoo Lee         San Francisco Giants®
+          194 Joe Mack             Miami Marlins®           Rookie
+          195 Sam Antonacci        Chicago White Sox®       Rookie
+          196 Shota Imanaga        Chicago Cubs®
+          197 Grant Taylor         Chicago White Sox®       Rookie
+          198 Jack Perkins         Athletics™               Rookie
+          199 Spencer Strider      Atlanta Braves™
+          200 Kyle Teel            Chicago White Sox®       Rookie
+
+
+INSERT
+
+STELLAR STARS
+SS-1        Shohei Ohtani          Los Angeles Dodgers®
+SS-2        Bobby Witt Jr.         Kansas City Royals®
+SS-3        Juan Soto              New York Mets®
+SS-4        Corbin Carroll         Arizona Diamondbacks®
+SS-5        Tarik Skubal           Detroit Tigers®
+SS-6        Konnor Griffin         Pittsburgh Pirates®      Rookie
+SS-7        Jackson Chourio        Milwaukee Brewers™
+SS-8        Mookie Betts           Los Angeles Dodgers®
+SS-9        Mike Trout             Angels®
+SS-10       Kyle Schwarber         Philadelphia Phillies®
+SS-11       Fernando Tatis Jr.     San Diego Padres™
+SS-12       Ronald Acuña Jr.       Atlanta Braves™
+SS-13         Jac Caglianone        Kansas City Royals®      Rookie
+SS-14         Roman Anthony         Boston Red Sox®          Rookie
+SS-15         Samuel Basallo        Baltimore Orioles®       Rookie
+SS-16         Bryce Eldridge        San Francisco Giants®    Rookie
+SS-17         Chase Burns           Cincinnati Reds®         Rookie
+SS-18         Trey Yesavage         Toronto Blue Jays®       Rookie
+SS-19         Munetaka Murakami     Chicago White Sox®       Rookie
+SS-20         Carson Williams       Tampa Bay Rays™          Rookie
+SS-21         Cam Schlittler        New York Yankees®        Rookie
+SS-22         Bubba Chandler        Pittsburgh Pirates®      Rookie
+SS-23         JJ Wetherholt         St. Louis Cardinals®     Rookie
+SS-24         Carson Benge          New York Mets®           Rookie
+SS-25         Kevin McGonigle       Detroit Tigers®          Rookie
+
+FORCES OF THE DIAMOND
+FOD-1       Derek Jeter             New York Yankees®
+FOD-2       Cal Ripken Jr.          Baltimore Orioles®
+FOD-3       Alex Rodriguez          New York Yankees®
+FOD-4       Albert Pujols           St. Louis Cardinals®
+FOD-5       George Brett            Kansas City Royals®
+FOD-6       Chipper Jones           Atlanta Braves™
+FOD-7       Travis Bazzana          Cleveland Guardians®     Rookie
+FOD-8       Miguel Cabrera          Detroit Tigers®
+FOD-9       Frank Thomas            Chicago White Sox®
+FOD-10      Ryne Sandberg           Chicago Cubs®
+FOD-11      Jackie Robinson         Brooklyn Dodgers™
+FOD-12      Lou Gehrig              New York Yankees®
+FOD-13      Honus Wagner            Pittsburgh Pirates®
+FOD-14      Ernie Banks             Chicago Cubs®
+FOD-15      Mookie Betts            Los Angeles Dodgers®
+FOD-16      Vladimir Guerrero Jr.   Toronto Blue Jays®
+FOD-17      Freddie Freeman         Los Angeles Dodgers®
+FOD-19      Manny Machado           San Diego Padres™
+FOD-20      Bobby Witt Jr.          Kansas City Royals®
+FOD-21      José Ramírez            Cleveland Guardians®
+FOD-23      Nick Kurtz              Athletics™
+FOD-24      Bryce Harper            Philadelphia Phillies®
+
+DUAL STAR CLUSTERS
+DSC-1       Pete Crow-Armstrong     Chicago Cubs®
+DSC-1       Alex Bregman            Chicago Cubs®
+DSC-2       Yoshinobu Yamamoto      Los Angeles Dodgers®
+DSC-2       Shohei Ohtani           Los Angeles Dodgers®
+DSC-3       Cal Raleigh             Seattle Mariners™
+DSC-3       Julio Rodríguez         Seattle Mariners™
+DSC-4       Elly De La Cruz         Cincinnati Reds®
+DSC-4       Ken Griffey Jr.         Cincinnati Reds®
+DSC-5       Aaron Judge             New York Yankees®
+DSC-5       Mickey Mantle           New York Yankees®
+DSC-6       Bobby Witt Jr.          Kansas City Royals®
+DSC-6       George Brett            Kansas City Royals®
+DSC-7       Kyle Schwarber          Philadelphia Phillies®
+DSC-7       Bryce Harper            Philadelphia Phillies®
+DSC-8       Nolan McLean            New York Mets®           Rookie
+DSC-8       Carson Benge            New York Mets®           Rookie
+TRIPLE STAR CLUSTERS
+TSC-1       Aaron Judge          New York Yankees®
+TSC-1       Derek Jeter          New York Yankees®
+TSC-1       Lou Gehrig           New York Yankees®
+TSC-2       Freddie Freeman      Los Angeles Dodgers®
+TSC-2       Mookie Betts         Los Angeles Dodgers®
+TSC-2       Shohei Ohtani        Los Angeles Dodgers®
+TSC-3       Bubba Chandler       Pittsburgh Pirates®      Rookie
+TSC-3       Chase Burns          Cincinnati Reds®         Rookie
+TSC-3       Jacob Misiorowski    Milwaukee Brewers™       Rookie
+TSC-4       Roman Anthony        Boston Red Sox®          Rookie
+TSC-4       Nomar Garciaparra    Boston Red Sox®          Rookie
+TSC-4       David Ortiz          Boston Red Sox®          Rookie
+TSC-5       Bo Bichette          New York Mets®
+TSC-5       Francisco Lindor     New York Mets®
+TSC-5       Juan Soto            New York Mets®
+TSC-6       Ronald Acuña Jr.     Atlanta Braves™
+TSC-6       Chipper Jones        Atlanta Braves™
+TSC-6       Greg Maddux          Atlanta Braves™
+TSC-7       JJ Wetherholt        St. Louis Cardinals®     Rookie
+TSC-7       Konnor Griffin       Pittsburgh Pirates®      Rookie
+TSC-7       Kevin McGonigle      Detroit Tigers®          Rookie
+
+EXTRATERRESTRIAL TALENT
+ET-1       Jac Caglianone        Kansas City Royals®      Rookie
+ET-2       Roman Anthony         Boston Red Sox®          Rookie
+ET-3       Samuel Basallo        Baltimore Orioles®       Rookie
+ET-4       Sal Stewart           Cincinnati Reds®         Rookie
+ET-5       Carter Jensen         Kansas City Royals®      Rookie
+ET-6       Dylan Beavers         Baltimore Orioles®       Rookie
+ET-7       Cole Young            Seattle Mariners™        Rookie
+ET-8       Harry Ford            Washington Nationals®    Rookie
+ET-9       Brady House           Washington Nationals®    Rookie
+ET-10      Chase Burns           Cincinnati Reds®         Rookie
+ET-11      Bubba Chandler        Pittsburgh Pirates®      Rookie
+ET-12      Nolan McLean          New York Mets®           Rookie
+ET-13      Trey Yesavage         Toronto Blue Jays®       Rookie
+ET-14      Bryce Eldridge        San Francisco Giants®    Rookie
+ET-15      Cam Schlittler        New York Yankees®        Rookie
+ET-16      Shohei Ohtani         Los Angeles Dodgers®
+ET-17      Yoshinobu Yamamoto    Los Angeles Dodgers®
+ET-18      Freddie Freeman       Los Angeles Dodgers®
+ET-19      Aaron Judge           New York Yankees®
+ET-20      Cal Raleigh           Seattle Mariners™
+ET-21      Gunnar Henderson      Baltimore Orioles®
+ET-22      Nick Kurtz            Athletics™
+ET-23      Junior Caminero       Tampa Bay Rays™
+ET-24      Pete Alonso           Baltimore Orioles®
+ET-25      Bryce Harper          Philadelphia Phillies®
+ET-26      Konnor Griffin        Pittsburgh Pirates®      Rookie
+ET-27      Mike Trout            Angels®
+ET-28      Elly De La Cruz       Cincinnati Reds®
+ET-29      Paul Skenes           Pittsburgh Pirates®
+ET-30      Bobby Witt Jr.        Kansas City Royals®
+ET-31      Ronald Acuña Jr.      Atlanta Braves™
+ET-32      Pete Crow-Armstrong   Chicago Cubs®
+ET-33        JJ Wetherholt         St. Louis Cardinals®     Rookie
+ET-34        Carson Benge          New York Mets®           Rookie
+ET-35        Kevin McGonigle       Detroit Tigers®          Rookie
+
+LAUNCHED INTO ORBIT
+LIO-1      Cal Raleigh             Seattle Mariners™
+LIO-2      Kyle Schwarber          Philadelphia Phillies®
+LIO-3      Shohei Ohtani           Los Angeles Dodgers®
+LIO-4      Aaron Judge             New York Yankees®
+LIO-5      Junior Caminero         Tampa Bay Rays™
+LIO-6      Juan Soto               New York Mets®
+LIO-7      Pete Alonso             Baltimore Orioles®
+LIO-8      Nick Kurtz              Athletics™
+LIO-9      Brent Rooker            Athletics™
+LIO-10     Julio Rodríguez         Seattle Mariners™
+LIO-11     Elly De La Cruz         Cincinnati Reds®
+LIO-12     Ronald Acuña Jr.        Atlanta Braves™
+LIO-13     Rafael Devers           San Francisco Giants®
+LIO-14     Freddie Freeman         Los Angeles Dodgers®
+LIO-15     Bryce Harper            Philadelphia Phillies®
+LIO-16     Mike Trout              Angels®
+LIO-17     Wyatt Langford          Texas Rangers®
+LIO-18     Pete Crow-Armstrong     Chicago Cubs®
+LIO-19     Giancarlo Stanton       New York Yankees®
+LIO-20     Bo Bichette             New York Mets®
+LIO-21     Vladimir Guerrero Jr.   Toronto Blue Jays®
+LIO-22     José Ramírez            Cleveland Guardians®
+LIO-23     Francisco Lindor        New York Mets®
+LIO-24     Fernando Tatis Jr.      San Diego Padres™
+LIO-25     George Springer         Toronto Blue Jays®
+LIO-26     Jazz Chisholm Jr.       New York Yankees®
+LIO-27     Corbin Carroll          Arizona Diamondbacks®
+LIO-28     Josh Naylor             Seattle Mariners™
+LIO-29     Matt Olson              Atlanta Braves™
+LIO-30     Bryce Eldridge          San Francisco Giants®    Rookie
+LIO-31     Reggie Jackson          California Angels™
+LIO-32     Willie Mays             San Francisco Giants®
+LIO-33     Ken Griffey Jr.         Cincinnati Reds®
+LIO-34     Albert Pujols           St. Louis Cardinals®
+LIO-35     David Ortiz             Boston Red Sox®
+LIO-36     Babe Ruth               New York Yankees®
+LIO-37     George Brett            Kansas City Royals®
+LIO-38     Chipper Jones           Atlanta Braves™
+LIO-39     Cal Ripken Jr.          Baltimore Orioles®
+LIO-40     Mickey Mantle           New York Yankees®
+LIO-41     Sammy Sosa              Chicago Cubs®
+LIO-42     Miguel Cabrera          Detroit Tigers®
+LIO-43     Frank Thomas            Chicago White Sox®
+LIO-44     Hank Aaron              Atlanta Braves™
+LIO-45     Jac Caglianone          Kansas City Royals®      Rookie
+LIO-46     Owen Caissie            Miami Marlins®           Rookie
+LIO-47     Colson Montgomery       Chicago White Sox®       Rookie
+LIO-48     Adley Rutschman         Baltimore Orioles®
+LIO-49     Roman Anthony           Boston Red Sox®          Rookie
+LIO-50     Munetaka Murakami       Chicago White Sox®       Rookie
+STARS IN THE NIGHT
+SIN-1       Roman Anthony         Boston Red Sox®         Rookie
+SIN-2       Jac Caglianone        Kansas City Royals®     Rookie
+SIN-3       Travis Bazzana        Cleveland Guardians®    Rookie
+SIN-4       Jonah Tong            New York Mets®          Rookie
+SIN-5       Cole Young            Seattle Mariners™       Rookie
+SIN-6       Konnor Griffin        Pittsburgh Pirates®     Rookie
+SIN-7       Sal Stewart           Cincinnati Reds®        Rookie
+SIN-8       Cam Schlittler        New York Yankees®       Rookie
+SIN-9       Colson Montgomery     Chicago White Sox®      Rookie
+SIN-10      Bryce Eldridge        San Francisco Giants®   Rookie
+SIN-11      Jacob Misiorowski     Milwaukee Brewers™      Rookie
+SIN-12      Bubba Chandler        Pittsburgh Pirates®     Rookie
+SIN-13      Samuel Basallo        Baltimore Orioles®      Rookie
+SIN-14      Julio Rodríguez       Seattle Mariners™
+SIN-15      Nick Kurtz            Athletics™
+SIN-16      Pete Crow-Armstrong   Chicago Cubs®
+SIN-17      Pete Alonso           Baltimore Orioles®
+SIN-18      Kyle Tucker           Los Angeles Dodgers®
+SIN-19      Paul Skenes           Pittsburgh Pirates®
+SIN-20      Aaron Judge           New York Yankees®
+SIN-21      Corbin Carroll        Arizona Diamondbacks®
+SIN-22      Ronald Acuña Jr.      Atlanta Braves™
+SIN-23      Elly De La Cruz       Cincinnati Reds®
+SIN-24      JJ Wetherholt         St. Louis Cardinals®    Rookie
+SIN-25      Kevin McGonigle       Detroit Tigers®         Rookie
+
+STELLA NOVA
+STN-1       Roman Anthony         Boston Red Sox®         Rookie
+STN-2       Jac Caglianone        Kansas City Royals®     Rookie
+STN-3       Samuel Basallo        Baltimore Orioles®      Rookie
+STN-4       Bryce Eldridge        San Francisco Giants®   Rookie
+STN-5       Chase Burns           Cincinnati Reds®        Rookie
+STN-6       Bubba Chandler        Pittsburgh Pirates®     Rookie
+STN-7       Nolan McLean          New York Mets®          Rookie
+STN-8       Trey Yesavage         Toronto Blue Jays®      Rookie
+STN-9       Colson Montgomery     Chicago White Sox®      Rookie
+STN-10      Jacob Misiorowski     Milwaukee Brewers™      Rookie
+STN-11      Kyle Teel             Chicago White Sox®      Rookie
+STN-12      Carson Williams       Tampa Bay Rays™         Rookie
+STN-13      Munetaka Murakami     Chicago White Sox®      Rookie
+STN-14      Cam Schlittler        New York Yankees®       Rookie
+STN-15      Travis Bazzana        Cleveland Guardians®    Rookie
+STN-16      Owen Caissie          Miami Marlins®          Rookie
+STN-17      Chase DeLauter        Cleveland Guardians®    Rookie
+STN-18      Roki Sasaki           Los Angeles Dodgers®
+STN-19      Nick Kurtz            Athletics™
+STN-20      Pete Crow-Armstrong   Chicago Cubs®
+STN-21      Junior Caminero       Tampa Bay Rays™
+STN-22      Konnor Griffin        Pittsburgh Pirates®     Rookie
+STN-23      JJ Wetherholt         St. Louis Cardinals®    Rookie
+STN-24      Carson Benge          New York Mets®          Rookie
+STN-25      Kevin McGonigle       Detroit Tigers®         Rookie
+
+BASE CARDS CONSTELLATION VARIATION
+          1 Shohei Ohtani       Los Angeles Dodgers®
+           2 Mookie Betts           Los Angeles Dodgers®
+           3 Paul Skenes            Pittsburgh Pirates®
+          12 Pete Crow-Armstrong    Chicago Cubs®
+          13 Ronald Acuña Jr.       Atlanta Braves™
+          14 Mike Trout             Angels®
+          20 Francisco Lindor       New York Mets®
+          21 Munetaka Murakami      Chicago White Sox®      Rookie
+          22 Chase Burns            Cincinnati Reds®        Rookie
+          24 Konnor Griffin         Pittsburgh Pirates®     Rookie
+          34 Kevin McGonigle        Detroit Tigers®         Rookie
+          38 Roman Anthony          Boston Red Sox®         Rookie
+          39 Jacob Misiorowski      Milwaukee Brewers™      Rookie
+          54 Bryce Eldridge         San Francisco Giants®   Rookie
+          56 Colson Montgomery      Chicago White Sox®      Rookie
+          74 Cam Schlittler         New York Yankees®       Rookie
+          90 Samuel Basallo         Baltimore Orioles®      Rookie
+          97 Carson Benge           New York Mets®          Rookie
+          99 Aaron Judge            New York Yankees®
+         100 JJ Wetherholt          St. Louis Cardinals®    Rookie
+         119 Chase DeLauter         Cleveland Guardians®    Rookie
+         152 Nolan McLean           New York Mets®          Rookie
+         163 Jac Caglianone         Kansas City Royals®     Rookie
+         165 Junior Caminero        Tampa Bay Rays™
+         168 Sal Stewart            Cincinnati Reds®        Rookie
+
+COSMIC DUST
+CD-1        Aaron Judge             New York Yankees®
+CD-2        Shohei Ohtani           Los Angeles Dodgers®
+CD-3        Bobby Witt Jr.          Kansas City Royals®
+CD-4        Juan Soto               New York Mets®
+CD-5        Elly De La Cruz         Cincinnati Reds®
+CD-6        Ronald Acuña Jr.        Atlanta Braves™
+CD-7        Paul Skenes             Pittsburgh Pirates®
+CD-8        Yoshinobu Yamamoto      Los Angeles Dodgers®
+CD-9        Fernando Tatis Jr.      San Diego Padres™
+CD-10       Vladimir Guerrero Jr.   Toronto Blue Jays®
+CD-11       Nick Kurtz              Athletics™
+CD-12       Mike Trout              Angels®
+CD-13       Roman Anthony           Boston Red Sox®         Rookie
+CD-14       Jac Caglianone          Kansas City Royals®     Rookie
+CD-15       Samuel Basallo          Baltimore Orioles®      Rookie
+CD-16       Bryce Eldridge          San Francisco Giants®   Rookie
+CD-17       Chase Burns             Cincinnati Reds®        Rookie
+CD-18       Nolan McLean            New York Mets®          Rookie
+CD-19       Konnor Griffin          Pittsburgh Pirates®     Rookie
+CD-20       Jacob Misiorowski       Milwaukee Brewers™      Rookie
+CD-21       Munetaka Murakami       Chicago White Sox®      Rookie
+CD-22       Cam Schlittler          New York Yankees®       Rookie
+CD-23       JJ Wetherholt           St. Louis Cardinals®    Rookie
+CD-24       Travis Bazzana          Cleveland Guardians®    Rookie
+CD-25       Kevin McGonigle         Detroit Tigers®         Rookie
+
+MARS ATTACKS MLB
+MAM-1      Roman Anthony            Boston Red Sox®         Rookie
+MAM-2      Jac Caglianone           Kansas City Royals®     Rookie
+MAM-3      Aaron Judge              New York Yankees®
+MAM-4        Shohei Ohtani          Los Angeles Dodgers®
+MAM-5        Ronald Acuña Jr.       Atlanta Braves™
+MAM-6        Pete Crow-Armstrong    Chicago Cubs®
+MAM-7        Paul Skenes            Pittsburgh Pirates®
+MAM-8        Konnor Griffin         Pittsburgh Pirates®     Rookie
+MAM-9        JJ Wetherholt          St. Louis Cardinals®    Rookie
+MAM-10       Kevin McGonigle        Detroit Tigers®         Rookie
+
+PLANETARIUM
+P-1        Aaron Judge              New York Yankees®
+P-2        Shohei Ohtani            Los Angeles Dodgers®
+P-3        Paul Skenes              Pittsburgh Pirates®
+P-4        Bobby Witt Jr.           Kansas City Royals®
+P-5        Ronald Acuña Jr.         Atlanta Braves™
+P-6        Julio Rodríguez          Seattle Mariners™
+P-7        Pete Crow-Armstrong      Chicago Cubs®
+P-8        Nick Kurtz               Athletics™
+P-9        Gunnar Henderson         Baltimore Orioles®
+P-10       Corbin Carroll           Arizona Diamondbacks®
+P-11       Vladimir Guerrero Jr.    Toronto Blue Jays®
+P-12       Roman Anthony            Boston Red Sox®         Rookie
+P-13       Jac Caglianone           Kansas City Royals®     Rookie
+P-14       Samuel Basallo           Baltimore Orioles®      Rookie
+P-15       Bryce Eldridge           San Francisco Giants®   Rookie
+P-16       Nolan McLean             New York Mets®          Rookie
+P-17       Jacob Misiorowski        Milwaukee Brewers™      Rookie
+P-18       Konnor Griffin           Pittsburgh Pirates®     Rookie
+P-19       Munetaka Murakami        Chicago White Sox®      Rookie
+P-20       Trey Yesavage            Toronto Blue Jays®      Rookie
+P-21       Chase Burns              Cincinnati Reds®        Rookie
+P-22       Chase DeLauter           Cleveland Guardians®    Rookie
+P-23       JJ Wetherholt            St. Louis Cardinals®    Rookie
+P-24       Carson Benge             New York Mets®          Rookie
+P-25       Kevin McGonigle          Detroit Tigers®         Rookie
+
+BASE CARDS ANTI GRAVITY VARIATION
+AG-1        Aaron Judge           New York Yankees®
+AG-2        Shohei Ohtani         Los Angeles Dodgers®
+AG-3        Paul Skenes           Pittsburgh Pirates®
+AG-4        Bobby Witt Jr.        Kansas City Royals®
+AG-5        Ronald Acuña Jr.      Atlanta Braves™
+AG-6        Elly De La Cruz       Cincinnati Reds®
+AG-7        Mike Trout            Angels®
+AG-8        Bryce Harper          Philadelphia Phillies®
+AG-9        Vladimir Guerrero Jr. Toronto Blue Jays®
+AG-10       Konnor Griffin        Pittsburgh Pirates®       Rookie
+AG-11       Nick Kurtz            Athletics™
+AG-12       Gunnar Henderson      Baltimore Orioles®
+AG-13       Julio Rodríguez       Seattle Mariners™
+AG-14       Juan Soto             New York Mets®
+AG-15       Yoshinobu Yamamoto    Los Angeles Dodgers®
+AG-16       Roman Anthony         Boston Red Sox®           Rookie
+AG-17       Jac Caglianone        Kansas City Royals®       Rookie
+AG-18       Samuel Basallo        Baltimore Orioles®        Rookie
+AG-19       Trey Yesavage         Toronto Blue Jays®        Rookie
+AG-20       Munetaka Murakami     Chicago White Sox®        Rookie
+AG-21       Chase DeLauter      Cleveland Guardians®     Rookie
+AG-22       Chase Burns         Cincinnati Reds®         Rookie
+AG-23       Carson Benge        New York Mets®           Rookie
+AG-24       JJ Wetherholt       St. Louis Cardinals®     Rookie
+AG-25       Kevin McGonigle     Detroit Tigers®          Rookie
+
+STARFRACTOR
+SF-1       Jac Caglianone       Kansas City Royals®      Rookie
+SF-2       Roman Anthony        Boston Red Sox®          Rookie
+SF-3       Samuel Basallo       Baltimore Orioles®       Rookie
+SF-4       Bryce Eldridge       San Francisco Giants®    Rookie
+SF-5       Chase Burns          Cincinnati Reds®         Rookie
+SF-6       Bubba Chandler       Pittsburgh Pirates®      Rookie
+SF-7       Nolan McLean         New York Mets®           Rookie
+SF-8       Trey Yesavage        Toronto Blue Jays®       Rookie
+SF-9       Chase DeLauter       Cleveland Guardians®     Rookie
+SF-10      Sal Stewart          Cincinnati Reds®         Rookie
+SF-11      Kyle Teel            Chicago White Sox®       Rookie
+SF-12      Dylan Beavers        Baltimore Orioles®       Rookie
+SF-13      Carter Jensen        Kansas City Royals®      Rookie
+SF-14      Cam Schlittler       New York Yankees®        Rookie
+SF-15      Jonah Tong           New York Mets®           Rookie
+SF-16      Jacob Misiorowski    Milwaukee Brewers™       Rookie
+SF-17      Colson Montgomery    Chicago White Sox®       Rookie
+SF-18      Carson Williams      Tampa Bay Rays™          Rookie
+SF-19      Cole Young           Seattle Mariners™        Rookie
+SF-20      Christian Moore      Angels®                  Rookie
+SF-21      Harry Ford           Washington Nationals®    Rookie
+SF-22      Brady House          Washington Nationals®    Rookie
+SF-23      Owen Caissie         Miami Marlins®           Rookie
+SF-24      Munetaka Murakami    Chicago White Sox®       Rookie
+SF-25      Tatsuya Imai         Houston Astros®          Rookie
+SF-26      Kazuma Okamoto       Toronto Blue Jays®       Rookie
+SF-27      Jakob Marsee         Miami Marlins®           Rookie
+SF-28      Jhostynxon Garcia    Pittsburgh Pirates®      Rookie
+SF-29      Colby Thomas         Athletics™               Rookie
+SF-30      C.J. Kayfus          Cleveland Guardians®     Rookie
+SF-31      Jose Fernandez       Arizona Diamondbacks®    Rookie
+SF-32      Connelly Early       Boston Red Sox®          Rookie
+SF-33      Payton Tolle         Boston Red Sox®          Rookie
+SF-34      Andrew McCutchen     Texas Rangers®
+SF-35      Alex Freeland        Los Angeles Dodgers®     Rookie
+SF-36      Aaron Judge          New York Yankees®
+SF-37      Shohei Ohtani        Los Angeles Dodgers®
+SF-38      Mike Trout           Angels®
+SF-39      Bobby Witt Jr.       Kansas City Royals®
+SF-40      Juan Soto            New York Mets®
+SF-41      José Ramírez         Cleveland Guardians®
+SF-42      Ronald Acuña Jr.     Atlanta Braves™
+SF-43      Tarik Skubal         Detroit Tigers®
+SF-44      Elly De La Cruz      Cincinnati Reds®
+SF-45      Julio Rodríguez      Seattle Mariners™
+SF-46      Kyle Tucker          Los Angeles Dodgers®
+SF-47      Paul Skenes          Pittsburgh Pirates®
+SF-48      Fernando Tatis Jr.   San Diego Padres™
+SF-49      Bryce Harper         Philadelphia Phillies®
+SF-50       Gunnar Henderson        Baltimore Orioles®
+SF-51       Junior Caminero         Tampa Bay Rays™
+SF-52       Vladimir Guerrero Jr.   Toronto Blue Jays®
+SF-53       Corbin Carroll          Arizona Diamondbacks®
+SF-54       Nick Kurtz              Athletics™
+SF-55       Cal Raleigh             Seattle Mariners™
+SF-56       Jackson Chourio         Milwaukee Brewers™
+SF-57       Pete Alonso             Baltimore Orioles®
+SF-58       Kyle Schwarber          Philadelphia Phillies®
+SF-59       Jazz Chisholm Jr.       New York Yankees®
+SF-60       Trea Turner             Philadelphia Phillies®
+SF-61       Francisco Lindor        New York Mets®
+SF-62       Ketel Marte             Arizona Diamondbacks®
+SF-63       Yordan Alvarez          Houston Astros®
+SF-64       Yoshinobu Yamamoto      Los Angeles Dodgers®
+SF-65       Joe Mack                Miami Marlins®           Rookie
+SF-66       Manny Machado           San Diego Padres™
+SF-67       Jackson Merrill         San Diego Padres™
+SF-68       Jackson Holliday        Baltimore Orioles®
+SF-69       James Wood              Washington Nationals®
+SF-70       Pete Crow-Armstrong     Chicago Cubs®
+SF-71       Drake Baldwin           Atlanta Braves™
+SF-72       Chris Sale              Atlanta Braves™
+SF-73       Rafael Devers           San Francisco Giants®
+SF-74       Mookie Betts            Los Angeles Dodgers®
+SF-75       Wyatt Langford          Texas Rangers®
+SF-76       Corey Seager            Texas Rangers®
+SF-77       Jacob deGrom            Texas Rangers®
+SF-78       Jacob Wilson            Athletics™
+SF-79       Hunter Greene           Cincinnati Reds®
+SF-80       Max Fried               New York Yankees®
+SF-81       Freddie Freeman         Los Angeles Dodgers®
+SF-82       CJ Abrams               Washington Nationals®
+SF-83       Cody Bellinger          New York Yankees®
+SF-84       Chase Dollander         Colorado Rockies™
+SF-85       Justin Verlander        Detroit Tigers®
+SF-86       JR Ritchie              Atlanta Braves™          Rookie
+SF-87       Byron Buxton            Minnesota Twins®
+SF-88       Seiya Suzuki            Chicago Cubs®
+SF-89       Ben Rice                New York Yankees®
+SF-90       Travis Bazzana          Cleveland Guardians®     Rookie
+SF-91       Noah Schultz            Chicago White Sox®       Rookie
+SF-92       Alex Bregman            Chicago Cubs®
+SF-93       Konnor Griffin          Pittsburgh Pirates®      Rookie
+SF-94       Jose Altuve             Houston Astros®
+SF-95       Salvador Perez          Kansas City Royals®
+SF-96       Carson Benge            New York Mets®           Rookie
+SF-97       JJ Wetherholt           St. Louis Cardinals®     Rookie
+SF-98       Kevin McGonigle         Detroit Tigers®          Rookie
+SF-99       Andrew Painter          Philadelphia Phillies®   Rookie
+SF-100      Justin Crawford         Philadelphia Phillies®   Rookie
+
+PLANETARY PURSUIT
+PPE-1      Aaron Judge              New York Yankees®
+PPE-2      Shohei Ohtani            Los Angeles Dodgers®
+PPE-3      Juan Soto                New York Mets®
+PPE-4     Bobby Witt Jr.      Kansas City Royals®
+PPE-5     Paul Skenes         Pittsburgh Pirates®
+PPE-6     Roman Anthony       Boston Red Sox®        Rookie
+PPE-7     Munetaka Murakami   Chicago White Sox®     Rookie
+PPE-8     Konnor Griffin      Pittsburgh Pirates®    Rookie
+PPE-9     Kevin McGonigle     Detroit Tigers®        Rookie
+PPE-10    JJ Wetherholt       St. Louis Cardinals®   Rookie
+PPJ-1     Aaron Judge         New York Yankees®
+PPJ-2     Shohei Ohtani       Los Angeles Dodgers®
+PPJ-3     Juan Soto           New York Mets®
+PPJ-4     Bobby Witt Jr.      Kansas City Royals®
+PPJ-5     Paul Skenes         Pittsburgh Pirates®
+PPJ-6     Roman Anthony       Boston Red Sox®        Rookie
+PPJ-7     Munetaka Murakami   Chicago White Sox®     Rookie
+PPJ-8     Konnor Griffin      Pittsburgh Pirates®    Rookie
+PPJ-9     Kevin McGonigle     Detroit Tigers®        Rookie
+PPJ-10    JJ Wetherholt       St. Louis Cardinals®   Rookie
+PPM-1     Aaron Judge         New York Yankees®
+PPM-2     Shohei Ohtani       Los Angeles Dodgers®
+PPM-3     Juan Soto           New York Mets®
+PPM-4     Bobby Witt Jr.      Kansas City Royals®
+PPM-5     Paul Skenes         Pittsburgh Pirates®
+PPM-6     Roman Anthony       Boston Red Sox®        Rookie
+PPM-7     Munetaka Murakami   Chicago White Sox®     Rookie
+PPM-8     Konnor Griffin      Pittsburgh Pirates®    Rookie
+PPM-9     Kevin McGonigle     Detroit Tigers®        Rookie
+PPM-10    JJ Wetherholt       St. Louis Cardinals®   Rookie
+PPMA-1    Aaron Judge         New York Yankees®
+PPMA-2    Shohei Ohtani       Los Angeles Dodgers®
+PPMA-3    Juan Soto           New York Mets®
+PPMA-4    Bobby Witt Jr.      Kansas City Royals®
+PPMA-5    Paul Skenes         Pittsburgh Pirates®
+PPMA-6    Roman Anthony       Boston Red Sox®        Rookie
+PPMA-7    Munetaka Murakami   Chicago White Sox®     Rookie
+PPMA-8    Konnor Griffin      Pittsburgh Pirates®    Rookie
+PPMA-9    Kevin McGonigle     Detroit Tigers®        Rookie
+PPMA-10   JJ Wetherholt       St. Louis Cardinals®   Rookie
+PPN-1     Aaron Judge         New York Yankees®
+PPN-2     Shohei Ohtani       Los Angeles Dodgers®
+PPN-3     Juan Soto           New York Mets®
+PPN-4     Bobby Witt Jr.      Kansas City Royals®
+PPN-5     Paul Skenes         Pittsburgh Pirates®
+PPN-6     Roman Anthony       Boston Red Sox®        Rookie
+PPN-7     Munetaka Murakami   Chicago White Sox®     Rookie
+PPN-8     Konnor Griffin      Pittsburgh Pirates®    Rookie
+PPN-9     Kevin McGonigle     Detroit Tigers®        Rookie
+PPN-10    JJ Wetherholt       St. Louis Cardinals®   Rookie
+PPP-1     Aaron Judge         New York Yankees®
+PPP-2     Shohei Ohtani       Los Angeles Dodgers®
+PPP-3     Juan Soto           New York Mets®
+PPP-4     Bobby Witt Jr.      Kansas City Royals®
+PPP-5     Paul Skenes         Pittsburgh Pirates®
+PPP-6     Roman Anthony       Boston Red Sox®        Rookie
+PPP-7     Munetaka Murakami   Chicago White Sox®     Rookie
+PPP-8     Konnor Griffin      Pittsburgh Pirates®    Rookie
+PPP-9     Kevin McGonigle     Detroit Tigers®        Rookie
+PPP-10      JJ Wetherholt           St. Louis Cardinals®     Rookie
+PPS-1       Aaron Judge             New York Yankees®
+PPS-2       Shohei Ohtani           Los Angeles Dodgers®
+PPS-3       Juan Soto               New York Mets®
+PPS-4       Bobby Witt Jr.          Kansas City Royals®
+PPS-5       Paul Skenes             Pittsburgh Pirates®
+PPS-6       Roman Anthony           Boston Red Sox®          Rookie
+PPS-7       Munetaka Murakami       Chicago White Sox®       Rookie
+PPS-8       Konnor Griffin          Pittsburgh Pirates®      Rookie
+PPS-9       Kevin McGonigle         Detroit Tigers®          Rookie
+PPS-10      JJ Wetherholt           St. Louis Cardinals®     Rookie
+PPST-1      Aaron Judge             New York Yankees®
+PPST-2      Shohei Ohtani           Los Angeles Dodgers®
+PPST-3      Juan Soto               New York Mets®
+PPST-4      Bobby Witt Jr.          Kansas City Royals®
+PPST-5      Paul Skenes             Pittsburgh Pirates®
+PPST-6      Roman Anthony           Boston Red Sox®          Rookie
+PPST-7      Munetaka Murakami       Chicago White Sox®       Rookie
+PPST-8      Konnor Griffin          Pittsburgh Pirates®      Rookie
+PPST-9      Kevin McGonigle         Detroit Tigers®          Rookie
+PPST-10     JJ Wetherholt           St. Louis Cardinals®     Rookie
+PPU-1       Aaron Judge             New York Yankees®
+PPU-2       Shohei Ohtani           Los Angeles Dodgers®
+PPU-3       Juan Soto               New York Mets®
+PPU-4       Bobby Witt Jr.          Kansas City Royals®
+PPU-5       Paul Skenes             Pittsburgh Pirates®
+PPU-6       Roman Anthony           Boston Red Sox®          Rookie
+PPU-7       Munetaka Murakami       Chicago White Sox®       Rookie
+PPU-8       Konnor Griffin          Pittsburgh Pirates®      Rookie
+PPU-9       Kevin McGonigle         Detroit Tigers®          Rookie
+PPU-10      JJ Wetherholt           St. Louis Cardinals®     Rookie
+PPV-1       Aaron Judge             New York Yankees®
+PPV-2       Shohei Ohtani           Los Angeles Dodgers®
+PPV-3       Juan Soto               New York Mets®
+PPV-4       Bobby Witt Jr.          Kansas City Royals®
+PPV-5       Paul Skenes             Pittsburgh Pirates®
+PPV-6       Roman Anthony           Boston Red Sox®          Rookie
+PPV-7       Munetaka Murakami       Chicago White Sox®       Rookie
+PPV-8       Konnor Griffin          Pittsburgh Pirates®      Rookie
+PPV-9       Kevin McGonigle         Detroit Tigers®          Rookie
+PPV-10      JJ Wetherholt           St. Louis Cardinals®     Rookie
+
+SUPERNOVA
+SN-1        Aaron Judge             New York Yankees®
+SN-2        Juan Soto               New York Mets®
+SN-3        Vladimir Guerrero Jr.   Toronto Blue Jays®
+SN-4        Freddie Freeman         Los Angeles Dodgers®
+SN-5        Bobby Witt Jr.          Kansas City Royals®
+SN-6        Mike Trout              Angels®
+SN-7        Shohei Ohtani           Los Angeles Dodgers®
+SN-8        Ronald Acuña Jr.        Atlanta Braves™
+SN-9        Francisco Lindor        New York Mets®
+SN-10       Paul Skenes             Pittsburgh Pirates®
+SN-11       Bryce Harper            Philadelphia Phillies®
+SN-12       Elly De La Cruz         Cincinnati Reds®
+SN-13       Julio Rodríguez         Seattle Mariners™
+SN-14       Gunnar Henderson     Baltimore Orioles®
+SN-15       Junior Caminero      Tampa Bay Rays™
+SN-16       Yoshinobu Yamamoto   Los Angeles Dodgers®
+SN-17       Nick Kurtz           Athletics™
+SN-18       Trey Yesavage        Toronto Blue Jays®
+SN-19       Chase Burns          Cincinnati Reds®
+SN-20       Nolan McLean         New York Mets®
+SN-21       Jacob Misiorowski    Milwaukee Brewers™
+SN-22       Samuel Basallo       Baltimore Orioles®
+SN-23       Roman Anthony        Boston Red Sox®
+SN-24       Jac Caglianone       Kansas City Royals®
+SN-25       Munetaka Murakami    Chicago White Sox®
+
+AUTOGRAPH
+
+COSMIC CHROME AUTOGRAPH VARIATION
+CCA-AF     Alex Freeland       Los Angeles Dodgers®     Rookie
+CCA-BC     Bubba Chandler      Pittsburgh Pirates®      Rookie
+CCA-BH     Brady House         Washington Nationals®    Rookie
+CCA-BS     Blake Snell         Los Angeles Dodgers®
+CCA-CB     Chase Burns         Cincinnati Reds®         Rookie
+CCA-CBE    Carson Benge        New York Mets®           Rookie
+CCA-CC     Corbin Carroll      Arizona Diamondbacks®
+CCA-CD     Chase DeLauter      Cleveland Guardians®     Rookie
+CCA-CH     Cade Horton         Chicago Cubs®
+CCA-CJ     Carter Jensen       Kansas City Royals®      Rookie
+CCA-CK     C.J. Kayfus         Cleveland Guardians®     Rookie
+CCA-CM     Colson Montgomery   Chicago White Sox®       Rookie
+CCA-CMO    Christian Moore     Angels®                  Rookie
+CCA-CS     Chandler Simpson    Tampa Bay Rays™
+CCA-CSC    Cam Schlittler      New York Yankees®        Rookie
+CCA-CSM    Cam Smith           Houston Astros®
+CCA-CW     Carson Whisenhunt   San Francisco Giants®    Rookie
+CCA-CWI    Carson Williams     Tampa Bay Rays™          Rookie
+CCA-CYO    Cole Young          Seattle Mariners™        Rookie
+CCA-DB     Drake Baldwin       Atlanta Braves™
+CCA-DBE    Dylan Beavers       Baltimore Orioles®       Rookie
+CCA-DR     Dalton Rushing      Los Angeles Dodgers®
+CCA-HB     Hunter Barco        Pittsburgh Pirates®      Rookie
+CCA-HH     Heriberto Hernández Miami Marlins®           Rookie
+CCA-JC     Jac Caglianone      Kansas City Royals®      Rookie
+CCA-JCR    Justin Crawford     Philadelphia Phillies®   Rookie
+CCA-JG     Jhostynxon Garcia   Pittsburgh Pirates®      Rookie
+CCA-JJ     Jeremiah Jackson    Baltimore Orioles®       Rookie
+CCA-JM     Jakob Marsee        Miami Marlins®           Rookie
+CCA-JME    Jacob Melton        Tampa Bay Rays™          Rookie
+CCA-JMI    Jacob Misiorowski   Milwaukee Brewers™       Rookie
+CCA-JT     Jonah Tong          New York Mets®           Rookie
+CCA-JW     JJ Wetherholt       St. Louis Cardinals®     Rookie
+CCA-KG     Konnor Griffin      Pittsburgh Pirates®      Rookie
+CCA-KK     Kyle Karros         Colorado Rockies™        Rookie
+CCA-KM     Kevin McGonigle     Detroit Tigers®          Rookie
+CCA-KO     Kazuma Okamoto      Toronto Blue Jays®       Rookie
+CCA-KT     Kyle Teel           Chicago White Sox®       Rookie
+CCA-LK     Luke Keaschall      Minnesota Twins®
+CCA-MF     Max Fried           New York Yankees®
+CCA-MM      Munetaka Murakami     Chicago White Sox®       Rookie
+CCA-MW      Masyn Winn            St. Louis Cardinals®
+CCA-NM      Nolan McLean          New York Mets®           Rookie
+CCA-OC      Owen Caissie          Miami Marlins®           Rookie
+CCA-OK      Otto Kemp             Philadelphia Phillies®   Rookie
+CCA-PM      Parker Messick        Cleveland Guardians®     Rookie
+CCA-PT      Payton Tolle          Boston Red Sox®          Rookie
+CCA-RA      Randy Arozarena       Seattle Mariners™
+CCA-RAN     Roman Anthony         Boston Red Sox®          Rookie
+CCA-RR      Ryan Ritter           Colorado Rockies™        Rookie
+CCA-RS      Roki Sasaki           Los Angeles Dodgers®
+CCA-SB      Samuel Basallo        Baltimore Orioles®       Rookie
+CCA-SST     Sal Stewart           Cincinnati Reds®         Rookie
+CCA-TB      Travis Bazzana        Cleveland Guardians®     Rookie
+CCA-TI      Tatsuya Imai          Houston Astros®          Rookie
+CCA-TT      Trea Turner           Philadelphia Phillies®
+CCA-TY      Trey Yesavage         Toronto Blue Jays®       Rookie
+CCA-WS      Will Smith            Los Angeles Dodgers®
+
+EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION
+ETA-BH     Brady House         Washington Nationals®       Rookie
+ETA-BW     Bobby Witt Jr.      Kansas City Royals®
+ETA-CB     Chase Burns         Cincinnati Reds®            Rookie
+ETA-CK     C.J. Kayfus         Cleveland Guardians®        Rookie
+ETA-CM     Christian Moore     Angels®                     Rookie
+ETA-FT     Fernando Tatis Jr.  San Diego Padres™
+ETA-JC     Jac Caglianone      Kansas City Royals®         Rookie
+ETA-JCH    Jackson Chourio     Milwaukee Brewers™
+ETA-JM     Jacob Misiorowski   Milwaukee Brewers™          Rookie
+ETA-JS     Juan Soto           New York Mets®
+ETA-JT     Jonah Tong          New York Mets®              Rookie
+ETA-JW     James Wood          Washington Nationals®
+ETA-KT     Kyle Teel           Chicago White Sox®          Rookie
+ETA-MS     Matt Shaw           Chicago Cubs®
+ETA-NK     Nick Kurtz          Athletics™
+ETA-OC     Owen Caissie        Miami Marlins®              Rookie
+ETA-PS     Paul Skenes         Pittsburgh Pirates®
+ETA-RA     Roman Anthony       Boston Red Sox®             Rookie
+ETA-SB     Samuel Basallo      Baltimore Orioles®          Rookie
+ETA-SO     Shohei Ohtani       Los Angeles Dodgers®
+
+LAUNCHED INTO ORBIT AUTOGRAPH VARIATION
+LIOA-AJ    Aaron Judge         New York Yankees®
+LIOA-AP    Albert Pujols       St. Louis Cardinals®
+LIOA-BB    Byron Buxton        Minnesota Twins®
+LIOA-BBO   Barry Bonds         San Francisco Giants®
+LIOA-BE    Bryce Eldridge      San Francisco Giants®       Rookie
+LIOA-BH    Bryce Harper        Philadelphia Phillies®
+LIOA-CB    Carlos Beltrán      New York Mets®
+LIOA-CJ    Chipper Jones       Atlanta Braves™
+LIOA-CM    Colson Montgomery   Chicago White Sox®          Rookie
+LIOA-CR    Cal Ripken Jr.      Baltimore Orioles®
+LIOA-DO    David Ortiz         Boston Red Sox®
+LIOA-DW    Dave Winfield       San Diego Padres™
+LIOA-ED    Elly De La Cruz     Cincinnati Reds®
+LIOA-FF    Freddie Freeman     Los Angeles Dodgers®
+LIOA-FL     Francisco Lindor      New York Mets®
+LIOA-FT     Frank Thomas          Chicago White Sox®
+LIOA-JC     Jac Caglianone        Kansas City Royals®     Rookie
+LIOA-JCA    Junior Caminero       Tampa Bay Rays™
+LIOA-JCJ    Jazz Chisholm Jr.     New York Yankees®
+LIOA-JG     Jason Giambi          New York Yankees®
+LIOA-KG     Ken Griffey Jr.       Cincinnati Reds®
+LIOA-MM     Munetaka Murakami     Chicago White Sox®      Rookie
+LIOA-MMC    Mark McGwire          Oakland Athletics™
+LIOA-MT     Mike Trout            Angels®
+LIOA-NK     Nick Kurtz            Athletics™
+LIOA-OC     Owen Caissie          Miami Marlins®          Rookie
+LIOA-PC     Pete Crow-Armstrong   Chicago Cubs®
+LIOA-RJ     Reggie Jackson        California Angels™
+LIOA-SB     Samuel Basallo        Baltimore Orioles®      Rookie
+LIOA-SO     Shohei Ohtani         Los Angeles Dodgers®
+LIOA-SS     Sammy Sosa            Chicago Cubs®
+LIOA-WL     Wyatt Langford        Texas Rangers®
+
+STAR CLUSTERS DUAL AUTOGRAPHS
+SCDA-BJ     Barry Bonds           San Francisco Giants®
+SCDA-BJ     Aaron Judge           New York Yankees®
+SCDA-CM     Jacob Misiorowski     Milwaukee Brewers™      Rookie
+SCDA-CM     Jackson Chourio       Milwaukee Brewers™      Rookie
+SCDA-DB     Chase Burns           Cincinnati Reds®        Rookie
+SCDA-DB     Elly De La Cruz       Cincinnati Reds®        Rookie
+SCDA-IO     Shohei Ohtani         Los Angeles Dodgers®
+SCDA-IO     Ichiro                Seattle Mariners™
+SCDA-JR     Derek Jeter           New York Yankees®
+SCDA-JR     Mariano Rivera        New York Yankees®
+SCDA-MK     Nick Kurtz            Athletics™
+SCDA-MK     Mark McGwire          Oakland Athletics™
+SCDA-MT     Nolan McLean          New York Mets®          Rookie
+SCDA-MT     Jonah Tong            New York Mets®          Rookie
+SCDA-PT     Mike Trout            Angels®
+SCDA-PT     Albert Pujols         Angels®
+SCDA-SL     Juan Soto             New York Mets®
+SCDA-SL     Francisco Lindor      New York Mets®
+SCDA-WC     Bobby Witt Jr.        Kansas City Royals®     Rookie
+SCDA-WC     Jac Caglianone        Kansas City Royals®     Rookie
+
+STELLAR STARS AUTOGRAPH VARIATION
+SSA-BC      Bubba Chandler     Pittsburgh Pirates®        Rookie
+SSA-CC      Corbin Carroll     Arizona Diamondbacks®
+SSA-CD      Chase DeLauter     Cleveland Guardians®       Rookie
+SSA-ED      Elly De La Cruz    Cincinnati Reds®
+SSA-GH      Gunnar Henderson   Baltimore Orioles®
+SSA-JC      Junior Caminero    Tampa Bay Rays™
+SSA-JCH     Jackson Chourio    Milwaukee Brewers™
+SSA-JH      Jackson Holliday   Baltimore Orioles®
+SSA-JW      James Wood         Washington Nationals®
+SSA-KT      Kyle Tucker        Los Angeles Dodgers®
+SSA-MB      Mookie Betts       Los Angeles Dodgers®
+SSA-MT      Mike Trout         Angels®
+SSA-NM      Nolan McLean       New York Mets®             Rookie
+SSA-OC      Owen Caissie       Miami Marlins®             Rookie
+SSA-PS     Paul Skenes            Pittsburgh Pirates®
+SSA-RA     Roman Anthony          Boston Red Sox®          Rookie
+SSA-RAJ    Ronald Acuña Jr.       Atlanta Braves™
+SSA-RS     Roki Sasaki            Los Angeles Dodgers®
+SSA-TY     Trey Yesavage          Toronto Blue Jays®       Rookie
+SSA-YY     Yoshinobu Yamamoto     Los Angeles Dodgers®
+SSA-ZW     Zack Wheeler           Philadelphia Phillies®
+
+
+RELIC
+
+COSMIC EXPLORERS CUT SIGNATURES
+CECS-AB    Alan Bean
+CECS-AE    Albert Einstein
+CECS-AS    Alan Shepard
+CECS-BA    Buzz Aldrin
+CECS-CS    Carl Sagan
+CECS-EH    Edwin Hubble
+CECS-JG    John Glenn
+CECS-JL    Jim Lovell
+CECS-JW    James Webb
+CECS-MC    Michael Collins
+CECS-NA    Neil Armstrong
+CECS-NB    Niels Bohr
+CECS-PC    Pete Conrad
+CECS-SC    Scott Carpenter
+CECS-SN    Sir Isaac Newton
+CECS-SR    Sally Ride
+CECS-VG    Virgil "Gus" Grissom
+

@@ -20,7 +20,7 @@ function renderProduct(){
  $('#productMeta').textContent=`${product.sections[product.config.baseSection].length} 張 Base · ${Object.keys(product.sections).length} 個系列`;
  $('#sourceLinks').innerHTML=product.config.sources.map(s=>`<a href="${escapeHtml(s.path)}" target="_blank" rel="noopener">↗ ${escapeHtml(s.label)}</a>`).join('')+`<a href="products/${escapeHtml(product.id)}/extraction-report.json" target="_blank" rel="noopener">↗ 資料稽核報告</a>`;
  $('#productNotes').innerHTML=product.config.notes.map(n=>`<li>${escapeHtml(n)}</li>`).join('');
- $('#packSeries').textContent=product.id.includes('update')?'UPDATE':product.id.includes('museum')?'MUSEUM':product.id.includes('allen-ginter')?'A&G':product.id.includes('chrome')?'CHROME':'SERIES 1';
+ $('#packSeries').textContent=product.id.includes('cosmic')?'COSMIC':product.id.includes('update')?'UPDATE':product.id.includes('museum')?'MUSEUM':product.id.includes('allen-ginter')?'A&G':product.id.includes('chrome')?'CHROME':'SERIES 1';
  document.body.dataset.product=product.id;
 }
 function renderFormats(){

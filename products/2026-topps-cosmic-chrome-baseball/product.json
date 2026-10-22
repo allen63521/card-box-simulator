@@ -1,0 +1,7114 @@
+{
+  "id": "2026-topps-cosmic-chrome-baseball",
+  "config": {
+    "productName": "2026 Topps Cosmic Chrome Baseball",
+    "language": "zh-Hant",
+    "baseSection": "BASE CARDS",
+    "formats": {
+      "hobby": {
+        "label": "HOBBY",
+        "oddsColumn": "hobby",
+        "packs": 20,
+        "cards": 4,
+        "guarantees": [],
+        "guaranteeLabel": "無 AUTO 保證",
+        "note": "20 包 × 4 張；所有特殊卡依 Hobby 官方 pack odds 模擬。",
+        "source": "https://www.topps.com/pages/topps-cosmic-chrome-baseball"
+      },
+      "lunar": {
+        "label": "LUNAR",
+        "oddsColumn": "lunar",
+        "packs": 20,
+        "cards": 4,
+        "guarantees": [],
+        "guaranteeLabel": "無 AUTO 保證",
+        "note": "20 包 × 4 張；包含 Lunar 專屬平行卡，AUTO 類別以 Lunar 官方 odds 為準。",
+        "source": "https://www.topps.com/pages/topps-cosmic-chrome-baseball"
+      }
+    },
+    "notes": [
+      "介面提供官方 odds PDF 中的 Hobby 與 Lunar 兩種盒型。",
+      "兩種盒型均為 20 包、每包 4 張；原廠未標示盒內保證簽名，因此不額外補入 AUTO。",
+      "Lunar 專屬 Lunar Eclipse 平行卡只會依 Lunar 欄配率出現。",
+      "原廠未公布完整裝箱關聯；各 odds 列依獨立事件模擬，並受每包 4 張上限限制。"
+    ],
+    "sources": [
+      {
+        "label": "Checklist PDF",
+        "path": "products/2026-topps-cosmic-chrome-baseball/source/2026_Cosmic_Chrome_Baseball_-_Checklist.pdf"
+      },
+      {
+        "label": "Odds PDF",
+        "path": "products/2026-topps-cosmic-chrome-baseball/source/2026-09-28_2026-Topps-Cosmic-Chrome-Baseball_Odds.pdf"
+      }
+    ]
+  },
+  "sections": {
+    "BASE CARDS": [
+      {
+        "code": "1",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "2",
+        "name": "Kyle Tucker",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "3",
+        "name": "Yordan Alvarez",
+        "team": "Houston Astros®",
+        "rookie": false
+      },
+      {
+        "code": "4",
+        "name": "Zach Neto",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "5",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "6",
+        "name": "Jonah Tong",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "7",
+        "name": "Chase DeLauter",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "8",
+        "name": "Cal Raleigh",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "9",
+        "name": "Zach Cole",
+        "team": "Houston Astros®",
+        "rookie": true
+      },
+      {
+        "code": "10",
+        "name": "Otto Kemp",
+        "team": "Philadelphia Phillies®",
+        "rookie": true
+      },
+      {
+        "code": "11",
+        "name": "Seiya Suzuki",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "12",
+        "name": "Francisco Lindor",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "13",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "14",
+        "name": "Julio Rodríguez",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "15",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "16",
+        "name": "Justin Crawford",
+        "team": "Philadelphia Phillies®",
+        "rookie": true
+      },
+      {
+        "code": "17",
+        "name": "Hunter Greene",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "18",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "19",
+        "name": "Jeferson Quero",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "20",
+        "name": "Yandy Díaz",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "21",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "22",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "23",
+        "name": "Carter Jensen",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "24",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "25",
+        "name": "Brady House",
+        "team": "Washington Nationals®",
+        "rookie": true
+      },
+      {
+        "code": "26",
+        "name": "Jeremiah Jackson",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "27",
+        "name": "Travis Bazzana",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "28",
+        "name": "Noah Schultz",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "29",
+        "name": "Heriberto Hernández",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "30",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "31",
+        "name": "Owen Caissie",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "32",
+        "name": "Colby Thomas",
+        "team": "Athletics™",
+        "rookie": true
+      },
+      {
+        "code": "33",
+        "name": "Colson Montgomery",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "34",
+        "name": "Yoshinobu Yamamoto",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "35",
+        "name": "Carlos Correa",
+        "team": "Houston Astros®",
+        "rookie": false
+      },
+      {
+        "code": "36",
+        "name": "Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "37",
+        "name": "Cade Horton",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "38",
+        "name": "George Springer",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "39",
+        "name": "Gerrit Cole",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "40",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "41",
+        "name": "Noelvi Marte",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "42",
+        "name": "Jacob Wilson",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "43",
+        "name": "Jazz Chisholm Jr.",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "44",
+        "name": "Andrew McCutchen",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "45",
+        "name": "Brandon Sproat",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "46",
+        "name": "Dansby Swanson",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "47",
+        "name": "Jakob Marsee",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "48",
+        "name": "James Wood",
+        "team": "Washington Nationals®",
+        "rookie": false
+      },
+      {
+        "code": "49",
+        "name": "Chris Sale",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "50",
+        "name": "Nolan Arenado",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "51",
+        "name": "Hunter Goodman",
+        "team": "Colorado Rockies™",
+        "rookie": false
+      },
+      {
+        "code": "52",
+        "name": "Connelly Early",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "53",
+        "name": "Sung-Mun Song",
+        "team": "San Diego Padres™",
+        "rookie": true
+      },
+      {
+        "code": "54",
+        "name": "Bryan Woo",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "55",
+        "name": "Jose Fernandez",
+        "team": "Arizona Diamondbacks®",
+        "rookie": true
+      },
+      {
+        "code": "56",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "57",
+        "name": "Bo Bichette",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "58",
+        "name": "Mason Miller",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "59",
+        "name": "Bryan Reynolds",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "60",
+        "name": "Jose Altuve",
+        "team": "Houston Astros®",
+        "rookie": false
+      },
+      {
+        "code": "61",
+        "name": "Wyatt Langford",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "62",
+        "name": "Alex Freeland",
+        "team": "Los Angeles Dodgers®",
+        "rookie": true
+      },
+      {
+        "code": "63",
+        "name": "Christian Moore",
+        "team": "Angels®",
+        "rookie": true
+      },
+      {
+        "code": "64",
+        "name": "Hunter Barco",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "65",
+        "name": "JR Ritchie",
+        "team": "Atlanta Braves™",
+        "rookie": true
+      },
+      {
+        "code": "66",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "67",
+        "name": "Joe Ryan",
+        "team": "Minnesota Twins®",
+        "rookie": false
+      },
+      {
+        "code": "68",
+        "name": "Jose Corniell",
+        "team": "Texas Rangers®",
+        "rookie": true
+      },
+      {
+        "code": "69",
+        "name": "Eugenio Suárez",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "70",
+        "name": "CJ Abrams",
+        "team": "Washington Nationals®",
+        "rookie": false
+      },
+      {
+        "code": "71",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "72",
+        "name": "Matt Olson",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "73",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "74",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "75",
+        "name": "Tatsuya Imai",
+        "team": "Houston Astros®",
+        "rookie": true
+      },
+      {
+        "code": "76",
+        "name": "Elmer Rodríguez",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "77",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "78",
+        "name": "Marcus Semien",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "79",
+        "name": "Kyle Schwarber",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "80",
+        "name": "Corbin Carroll",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "81",
+        "name": "Willy Adames",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "82",
+        "name": "Chase Dollander",
+        "team": "Colorado Rockies™",
+        "rookie": false
+      },
+      {
+        "code": "83",
+        "name": "Luis Robert Jr.",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "84",
+        "name": "Manny Machado",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "85",
+        "name": "Trea Turner",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "86",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "87",
+        "name": "Ranger Suárez",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "88",
+        "name": "Ezequiel Tovar",
+        "team": "Colorado Rockies™",
+        "rookie": false
+      },
+      {
+        "code": "89",
+        "name": "Connor Prielipp",
+        "team": "Minnesota Twins®",
+        "rookie": true
+      },
+      {
+        "code": "90",
+        "name": "Freddie Freeman",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "91",
+        "name": "Dylan Beavers",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "92",
+        "name": "Chandler Simpson",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "93",
+        "name": "Max Fried",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "94",
+        "name": "Jordan Westburg",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "95",
+        "name": "Gunnar Henderson",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "96",
+        "name": "Troy Melton",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "97",
+        "name": "Ketel Marte",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "98",
+        "name": "Cam Smith",
+        "team": "Houston Astros®",
+        "rookie": false
+      },
+      {
+        "code": "99",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "100",
+        "name": "Bubba Chandler",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "101",
+        "name": "Freddy Peralta",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "102",
+        "name": "Christian Yelich",
+        "team": "Milwaukee Brewers™",
+        "rookie": false
+      },
+      {
+        "code": "103",
+        "name": "Daniel Susac",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "104",
+        "name": "Pete Alonso",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "105",
+        "name": "Marcelo Mayer",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "106",
+        "name": "Cristopher Sánchez",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "107",
+        "name": "Dylan Cease",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "108",
+        "name": "Carson Whisenhunt",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "109",
+        "name": "Giancarlo Stanton",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "110",
+        "name": "Ian Seymour",
+        "team": "Tampa Bay Rays™",
+        "rookie": true
+      },
+      {
+        "code": "111",
+        "name": "Will Smith",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "112",
+        "name": "Vinnie Pasquantino",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "113",
+        "name": "Dylan Crews",
+        "team": "Washington Nationals®",
+        "rookie": false
+      },
+      {
+        "code": "114",
+        "name": "Brice Turang",
+        "team": "Milwaukee Brewers™",
+        "rookie": false
+      },
+      {
+        "code": "115",
+        "name": "Payton Tolle",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "116",
+        "name": "Jarren Duran",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "117",
+        "name": "Maikel Garcia",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "118",
+        "name": "Juan Brito",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "119",
+        "name": "Ozzie Albies",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "120",
+        "name": "Harry Ford",
+        "team": "Washington Nationals®",
+        "rookie": true
+      },
+      {
+        "code": "121",
+        "name": "Sandy Alcantara",
+        "team": "Miami Marlins®",
+        "rookie": false
+      },
+      {
+        "code": "122",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "123",
+        "name": "Drake Baldwin",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "124",
+        "name": "Tarik Skubal",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "125",
+        "name": "George Klassen",
+        "team": "Angels®",
+        "rookie": true
+      },
+      {
+        "code": "126",
+        "name": "Jimmy Crooks",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "127",
+        "name": "Deyvison De Los Santos",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "128",
+        "name": "Drew Gilbert",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "129",
+        "name": "Alejandro Kirk",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "130",
+        "name": "Kazuma Okamoto",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "131",
+        "name": "Cody Bellinger",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "132",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "133",
+        "name": "Jackson Merrill",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "134",
+        "name": "Kyle Karros",
+        "team": "Colorado Rockies™",
+        "rookie": true
+      },
+      {
+        "code": "135",
+        "name": "Steven Kwan",
+        "team": "Cleveland Guardians®",
+        "rookie": false
+      },
+      {
+        "code": "136",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "137",
+        "name": "Masyn Winn",
+        "team": "St. Louis Cardinals®",
+        "rookie": false
+      },
+      {
+        "code": "138",
+        "name": "Vladimir Guerrero Jr.",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "139",
+        "name": "Brent Rooker",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "140",
+        "name": "Jacob deGrom",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "141",
+        "name": "George Valera",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "142",
+        "name": "Roki Sasaki",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "143",
+        "name": "Rafael Devers",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "144",
+        "name": "Zack Wheeler",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "145",
+        "name": "Jeremy Peña",
+        "team": "Houston Astros®",
+        "rookie": false
+      },
+      {
+        "code": "146",
+        "name": "Javier Báez",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "147",
+        "name": "Fernando Tatis Jr.",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "148",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "149",
+        "name": "Alex Bregman",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "150",
+        "name": "CJ Kayfus",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "151",
+        "name": "Luis Morales",
+        "team": "Athletics™",
+        "rookie": true
+      },
+      {
+        "code": "152",
+        "name": "José Ramírez",
+        "team": "Cleveland Guardians®",
+        "rookie": false
+      },
+      {
+        "code": "153",
+        "name": "Brandon Lowe",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "154",
+        "name": "TJ Rumfield",
+        "team": "Colorado Rockies™",
+        "rookie": true
+      },
+      {
+        "code": "155",
+        "name": "Maximo Acosta",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "156",
+        "name": "Brice Matthews",
+        "team": "Houston Astros®",
+        "rookie": true
+      },
+      {
+        "code": "157",
+        "name": "Ben Rice",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "158",
+        "name": "Garrett Crochet",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "159",
+        "name": "Geraldo Perdomo",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "160",
+        "name": "Austin Riley",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "161",
+        "name": "Didier Fuentes",
+        "team": "Atlanta Braves™",
+        "rookie": true
+      },
+      {
+        "code": "162",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "163",
+        "name": "Ryan Ritter",
+        "team": "Colorado Rockies™",
+        "rookie": true
+      },
+      {
+        "code": "164",
+        "name": "Adley Rutschman",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "165",
+        "name": "Willson Contreras",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "166",
+        "name": "Iván Herrera",
+        "team": "St. Louis Cardinals®",
+        "rookie": false
+      },
+      {
+        "code": "167",
+        "name": "Matt Chapman",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "168",
+        "name": "Logan Webb",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "169",
+        "name": "Jackson Holliday",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "170",
+        "name": "Jonathan Aranda",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "171",
+        "name": "Parker Messick",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "172",
+        "name": "Oneil Cruz",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "173",
+        "name": "Cole Young",
+        "team": "Seattle Mariners™",
+        "rookie": true
+      },
+      {
+        "code": "174",
+        "name": "Jackson Chourio",
+        "team": "Milwaukee Brewers™",
+        "rookie": false
+      },
+      {
+        "code": "175",
+        "name": "Gleyber Torres",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "176",
+        "name": "Daylen Lile",
+        "team": "Washington Nationals®",
+        "rookie": false
+      },
+      {
+        "code": "177",
+        "name": "Andrew Painter",
+        "team": "Philadelphia Phillies®",
+        "rookie": true
+      },
+      {
+        "code": "178",
+        "name": "Carson Williams",
+        "team": "Tampa Bay Rays™",
+        "rookie": true
+      },
+      {
+        "code": "179",
+        "name": "Josh Naylor",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "180",
+        "name": "Sal Stewart",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "181",
+        "name": "Riley Greene",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "182",
+        "name": "Corey Seager",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "183",
+        "name": "Lawrence Butler",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "184",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "185",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "186",
+        "name": "Byron Buxton",
+        "team": "Minnesota Twins®",
+        "rookie": false
+      },
+      {
+        "code": "187",
+        "name": "Mookie Betts",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "188",
+        "name": "Trevor Story",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "189",
+        "name": "Salvador Perez",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "190",
+        "name": "Randy Arozarena",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "191",
+        "name": "Yohendrick Piñango",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "192",
+        "name": "Jhostynxon Garcia",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "193",
+        "name": "Jung Hoo Lee",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "194",
+        "name": "Joe Mack",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "195",
+        "name": "Sam Antonacci",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "196",
+        "name": "Shota Imanaga",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "197",
+        "name": "Grant Taylor",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "198",
+        "name": "Jack Perkins",
+        "team": "Athletics™",
+        "rookie": true
+      },
+      {
+        "code": "199",
+        "name": "Spencer Strider",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "200",
+        "name": "Kyle Teel",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      }
+    ],
+    "STELLAR STARS": [
+      {
+        "code": "SS-1",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SS-2",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "SS-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "SS-4",
+        "name": "Corbin Carroll",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "SS-5",
+        "name": "Tarik Skubal",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "SS-6",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "SS-7",
+        "name": "Jackson Chourio",
+        "team": "Milwaukee Brewers™",
+        "rookie": false
+      },
+      {
+        "code": "SS-8",
+        "name": "Mookie Betts",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SS-9",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "SS-10",
+        "name": "Kyle Schwarber",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "SS-11",
+        "name": "Fernando Tatis Jr.",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "SS-12",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "SS-13",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "SS-14",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SS-15",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "SS-16",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "SS-17",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "SS-18",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "SS-19",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SS-20",
+        "name": "Carson Williams",
+        "team": "Tampa Bay Rays™",
+        "rookie": true
+      },
+      {
+        "code": "SS-21",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "SS-22",
+        "name": "Bubba Chandler",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "SS-23",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "SS-24",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "SS-25",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "FORCES OF THE DIAMOND": [
+      {
+        "code": "FOD-1",
+        "name": "Derek Jeter",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-2",
+        "name": "Cal Ripken Jr.",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-3",
+        "name": "Alex Rodriguez",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-4",
+        "name": "Albert Pujols",
+        "team": "St. Louis Cardinals®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-5",
+        "name": "George Brett",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-6",
+        "name": "Chipper Jones",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "FOD-7",
+        "name": "Travis Bazzana",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "FOD-8",
+        "name": "Miguel Cabrera",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-9",
+        "name": "Frank Thomas",
+        "team": "Chicago White Sox®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-10",
+        "name": "Ryne Sandberg",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-11",
+        "name": "Jackie Robinson",
+        "team": "Brooklyn Dodgers™",
+        "rookie": false
+      },
+      {
+        "code": "FOD-12",
+        "name": "Lou Gehrig",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-13",
+        "name": "Honus Wagner",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-14",
+        "name": "Ernie Banks",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-15",
+        "name": "Mookie Betts",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-16",
+        "name": "Vladimir Guerrero Jr.",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-17",
+        "name": "Freddie Freeman",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-19",
+        "name": "Manny Machado",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "FOD-20",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-21",
+        "name": "José Ramírez",
+        "team": "Cleveland Guardians®",
+        "rookie": false
+      },
+      {
+        "code": "FOD-23",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "FOD-24",
+        "name": "Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      }
+    ],
+    "DUAL STAR CLUSTERS": [
+      {
+        "code": "DSC-1",
+        "name": "Pete Crow-Armstrong / Alex Bregman",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "DSC-2",
+        "name": "Yoshinobu Yamamoto / Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "DSC-3",
+        "name": "Cal Raleigh / Julio Rodríguez",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "DSC-4",
+        "name": "Elly De La Cruz / Ken Griffey Jr.",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "DSC-5",
+        "name": "Aaron Judge / Mickey Mantle",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "DSC-6",
+        "name": "Bobby Witt Jr. / George Brett",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "DSC-7",
+        "name": "Kyle Schwarber / Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "DSC-8",
+        "name": "Nolan McLean / Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      }
+    ],
+    "TRIPLE STAR CLUSTERS": [
+      {
+        "code": "TSC-1",
+        "name": "Aaron Judge / Derek Jeter / Lou Gehrig",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "TSC-2",
+        "name": "Freddie Freeman / Mookie Betts / Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "TSC-3",
+        "name": "Bubba Chandler / Chase Burns / Jacob Misiorowski",
+        "team": "Pittsburgh Pirates® / Cincinnati Reds® / Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "TSC-4",
+        "name": "Roman Anthony / Nomar Garciaparra / David Ortiz",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "TSC-5",
+        "name": "Bo Bichette / Francisco Lindor / Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "TSC-6",
+        "name": "Ronald Acuña Jr. / Chipper Jones / Greg Maddux",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "TSC-7",
+        "name": "JJ Wetherholt / Konnor Griffin / Kevin McGonigle",
+        "team": "St. Louis Cardinals® / Pittsburgh Pirates® / Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "EXTRATERRESTRIAL TALENT": [
+      {
+        "code": "ET-1",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "ET-2",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "ET-3",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "ET-4",
+        "name": "Sal Stewart",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "ET-5",
+        "name": "Carter Jensen",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "ET-6",
+        "name": "Dylan Beavers",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "ET-7",
+        "name": "Cole Young",
+        "team": "Seattle Mariners™",
+        "rookie": true
+      },
+      {
+        "code": "ET-8",
+        "name": "Harry Ford",
+        "team": "Washington Nationals®",
+        "rookie": true
+      },
+      {
+        "code": "ET-9",
+        "name": "Brady House",
+        "team": "Washington Nationals®",
+        "rookie": true
+      },
+      {
+        "code": "ET-10",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "ET-11",
+        "name": "Bubba Chandler",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "ET-12",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "ET-13",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "ET-14",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "ET-15",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "ET-16",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "ET-17",
+        "name": "Yoshinobu Yamamoto",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "ET-18",
+        "name": "Freddie Freeman",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "ET-19",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "ET-20",
+        "name": "Cal Raleigh",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "ET-21",
+        "name": "Gunnar Henderson",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "ET-22",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "ET-23",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "ET-24",
+        "name": "Pete Alonso",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "ET-25",
+        "name": "Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "ET-26",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "ET-27",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "ET-28",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "ET-29",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "ET-30",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "ET-31",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "ET-32",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "ET-33",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "ET-34",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "ET-35",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "LAUNCHED INTO ORBIT": [
+      {
+        "code": "LIO-1",
+        "name": "Cal Raleigh",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-2",
+        "name": "Kyle Schwarber",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-3",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-4",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-5",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-6",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-7",
+        "name": "Pete Alonso",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-8",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-9",
+        "name": "Brent Rooker",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-10",
+        "name": "Julio Rodríguez",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-11",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-12",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-13",
+        "name": "Rafael Devers",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-14",
+        "name": "Freddie Freeman",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-15",
+        "name": "Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-16",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-17",
+        "name": "Wyatt Langford",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-18",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-19",
+        "name": "Giancarlo Stanton",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-20",
+        "name": "Bo Bichette",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-21",
+        "name": "Vladimir Guerrero Jr.",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-22",
+        "name": "José Ramírez",
+        "team": "Cleveland Guardians®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-23",
+        "name": "Francisco Lindor",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-24",
+        "name": "Fernando Tatis Jr.",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-25",
+        "name": "George Springer",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-26",
+        "name": "Jazz Chisholm Jr.",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-27",
+        "name": "Corbin Carroll",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-28",
+        "name": "Josh Naylor",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-29",
+        "name": "Matt Olson",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-30",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "LIO-31",
+        "name": "Reggie Jackson",
+        "team": "California Angels™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-32",
+        "name": "Willie Mays",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-33",
+        "name": "Ken Griffey Jr.",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-34",
+        "name": "Albert Pujols",
+        "team": "St. Louis Cardinals®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-35",
+        "name": "David Ortiz",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-36",
+        "name": "Babe Ruth",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-37",
+        "name": "George Brett",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-38",
+        "name": "Chipper Jones",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-39",
+        "name": "Cal Ripken Jr.",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-40",
+        "name": "Mickey Mantle",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-41",
+        "name": "Sammy Sosa",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-42",
+        "name": "Miguel Cabrera",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-43",
+        "name": "Frank Thomas",
+        "team": "Chicago White Sox®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-44",
+        "name": "Hank Aaron",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "LIO-45",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "LIO-46",
+        "name": "Owen Caissie",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "LIO-47",
+        "name": "Colson Montgomery",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "LIO-48",
+        "name": "Adley Rutschman",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "LIO-49",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "LIO-50",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      }
+    ],
+    "STARS IN THE NIGHT": [
+      {
+        "code": "SIN-1",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-2",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-3",
+        "name": "Travis Bazzana",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-4",
+        "name": "Jonah Tong",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-5",
+        "name": "Cole Young",
+        "team": "Seattle Mariners™",
+        "rookie": true
+      },
+      {
+        "code": "SIN-6",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-7",
+        "name": "Sal Stewart",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-8",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-9",
+        "name": "Colson Montgomery",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-10",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-11",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "SIN-12",
+        "name": "Bubba Chandler",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-13",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-14",
+        "name": "Julio Rodríguez",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "SIN-15",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "SIN-16",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "SIN-17",
+        "name": "Pete Alonso",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "SIN-18",
+        "name": "Kyle Tucker",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SIN-19",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "SIN-20",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SIN-21",
+        "name": "Corbin Carroll",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "SIN-22",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "SIN-23",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "SIN-24",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "SIN-25",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "STELLA NOVA": [
+      {
+        "code": "STN-1",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "STN-2",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "STN-3",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "STN-4",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "STN-5",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "STN-6",
+        "name": "Bubba Chandler",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "STN-7",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "STN-8",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "STN-9",
+        "name": "Colson Montgomery",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "STN-10",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "STN-11",
+        "name": "Kyle Teel",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "STN-12",
+        "name": "Carson Williams",
+        "team": "Tampa Bay Rays™",
+        "rookie": true
+      },
+      {
+        "code": "STN-13",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "STN-14",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "STN-15",
+        "name": "Travis Bazzana",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "STN-16",
+        "name": "Owen Caissie",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "STN-17",
+        "name": "Chase DeLauter",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "STN-18",
+        "name": "Roki Sasaki",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "STN-19",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "STN-20",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "STN-21",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "STN-22",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "STN-23",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "STN-24",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "STN-25",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "BASE CARDS CONSTELLATION VARIATION": [
+      {
+        "code": "1",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "2",
+        "name": "Mookie Betts",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "3",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "12",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "13",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "14",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "20",
+        "name": "Francisco Lindor",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "21",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "22",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "24",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "34",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "38",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "39",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "54",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "56",
+        "name": "Colson Montgomery",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "74",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "90",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "97",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "99",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "100",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "119",
+        "name": "Chase DeLauter",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "152",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "163",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "165",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "168",
+        "name": "Sal Stewart",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      }
+    ],
+    "COSMIC DUST": [
+      {
+        "code": "CD-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "CD-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "CD-3",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "CD-4",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "CD-5",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "CD-6",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "CD-7",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "CD-8",
+        "name": "Yoshinobu Yamamoto",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "CD-9",
+        "name": "Fernando Tatis Jr.",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "CD-10",
+        "name": "Vladimir Guerrero Jr.",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "CD-11",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "CD-12",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "CD-13",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "CD-14",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "CD-15",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "CD-16",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "CD-17",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "CD-18",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "CD-19",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "CD-20",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "CD-21",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "CD-22",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "CD-23",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "CD-24",
+        "name": "Travis Bazzana",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "CD-25",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "MARS ATTACKS MLB": [
+      {
+        "code": "MAM-1",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "MAM-2",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "MAM-3",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "MAM-4",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "MAM-5",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "MAM-6",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "MAM-7",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "MAM-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "MAM-9",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "MAM-10",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "PLANETARIUM": [
+      {
+        "code": "P-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "P-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "P-3",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "P-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "P-5",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "P-6",
+        "name": "Julio Rodríguez",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "P-7",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "P-8",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "P-9",
+        "name": "Gunnar Henderson",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "P-10",
+        "name": "Corbin Carroll",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "P-11",
+        "name": "Vladimir Guerrero Jr.",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "P-12",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "P-13",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "P-14",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "P-15",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "P-16",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "P-17",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "P-18",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "P-19",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "P-20",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "P-21",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "P-22",
+        "name": "Chase DeLauter",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "P-23",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "P-24",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "P-25",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "BASE CARDS ANTI GRAVITY VARIATION": [
+      {
+        "code": "AG-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "AG-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "AG-3",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "AG-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "AG-5",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "AG-6",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "AG-7",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "AG-8",
+        "name": "Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "AG-9",
+        "name": "Vladimir Guerrero Jr. Toronto Blue Jays®",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "AG-10",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "AG-11",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "AG-12",
+        "name": "Gunnar Henderson",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "AG-13",
+        "name": "Julio Rodríguez",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "AG-14",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "AG-15",
+        "name": "Yoshinobu Yamamoto",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "AG-16",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "AG-17",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "AG-18",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "AG-19",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "AG-20",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "AG-21",
+        "name": "Chase DeLauter",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "AG-22",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "AG-23",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "AG-24",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "AG-25",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      }
+    ],
+    "STARFRACTOR": [
+      {
+        "code": "SF-1",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "SF-2",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SF-3",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "SF-4",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "SF-5",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "SF-6",
+        "name": "Bubba Chandler",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "SF-7",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "SF-8",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "SF-9",
+        "name": "Chase DeLauter",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "SF-10",
+        "name": "Sal Stewart",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "SF-11",
+        "name": "Kyle Teel",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SF-12",
+        "name": "Dylan Beavers",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "SF-13",
+        "name": "Carter Jensen",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "SF-14",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "SF-15",
+        "name": "Jonah Tong",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "SF-16",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "SF-17",
+        "name": "Colson Montgomery",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SF-18",
+        "name": "Carson Williams",
+        "team": "Tampa Bay Rays™",
+        "rookie": true
+      },
+      {
+        "code": "SF-19",
+        "name": "Cole Young",
+        "team": "Seattle Mariners™",
+        "rookie": true
+      },
+      {
+        "code": "SF-20",
+        "name": "Christian Moore",
+        "team": "Angels®",
+        "rookie": true
+      },
+      {
+        "code": "SF-21",
+        "name": "Harry Ford",
+        "team": "Washington Nationals®",
+        "rookie": true
+      },
+      {
+        "code": "SF-22",
+        "name": "Brady House",
+        "team": "Washington Nationals®",
+        "rookie": true
+      },
+      {
+        "code": "SF-23",
+        "name": "Owen Caissie",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "SF-24",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SF-25",
+        "name": "Tatsuya Imai",
+        "team": "Houston Astros®",
+        "rookie": true
+      },
+      {
+        "code": "SF-26",
+        "name": "Kazuma Okamoto",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "SF-27",
+        "name": "Jakob Marsee",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "SF-28",
+        "name": "Jhostynxon Garcia",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "SF-29",
+        "name": "Colby Thomas",
+        "team": "Athletics™",
+        "rookie": true
+      },
+      {
+        "code": "SF-30",
+        "name": "C.J. Kayfus",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "SF-31",
+        "name": "Jose Fernandez",
+        "team": "Arizona Diamondbacks®",
+        "rookie": true
+      },
+      {
+        "code": "SF-32",
+        "name": "Connelly Early",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SF-33",
+        "name": "Payton Tolle",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SF-34",
+        "name": "Andrew McCutchen",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-35",
+        "name": "Alex Freeland",
+        "team": "Los Angeles Dodgers®",
+        "rookie": true
+      },
+      {
+        "code": "SF-36",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SF-37",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-38",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "SF-39",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "SF-40",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "SF-41",
+        "name": "José Ramírez",
+        "team": "Cleveland Guardians®",
+        "rookie": false
+      },
+      {
+        "code": "SF-42",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "SF-43",
+        "name": "Tarik Skubal",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-44",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "SF-45",
+        "name": "Julio Rodríguez",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "SF-46",
+        "name": "Kyle Tucker",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-47",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "SF-48",
+        "name": "Fernando Tatis Jr.",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "SF-49",
+        "name": "Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "SF-50",
+        "name": "Gunnar Henderson",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "SF-51",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "SF-52",
+        "name": "Vladimir Guerrero Jr.",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "SF-53",
+        "name": "Corbin Carroll",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "SF-54",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "SF-55",
+        "name": "Cal Raleigh",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "SF-56",
+        "name": "Jackson Chourio",
+        "team": "Milwaukee Brewers™",
+        "rookie": false
+      },
+      {
+        "code": "SF-57",
+        "name": "Pete Alonso",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "SF-58",
+        "name": "Kyle Schwarber",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "SF-59",
+        "name": "Jazz Chisholm Jr.",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SF-60",
+        "name": "Trea Turner",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "SF-61",
+        "name": "Francisco Lindor",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "SF-62",
+        "name": "Ketel Marte",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "SF-63",
+        "name": "Yordan Alvarez",
+        "team": "Houston Astros®",
+        "rookie": false
+      },
+      {
+        "code": "SF-64",
+        "name": "Yoshinobu Yamamoto",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-65",
+        "name": "Joe Mack",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "SF-66",
+        "name": "Manny Machado",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "SF-67",
+        "name": "Jackson Merrill",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "SF-68",
+        "name": "Jackson Holliday",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "SF-69",
+        "name": "James Wood",
+        "team": "Washington Nationals®",
+        "rookie": false
+      },
+      {
+        "code": "SF-70",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "SF-71",
+        "name": "Drake Baldwin",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "SF-72",
+        "name": "Chris Sale",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "SF-73",
+        "name": "Rafael Devers",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "SF-74",
+        "name": "Mookie Betts",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-75",
+        "name": "Wyatt Langford",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-76",
+        "name": "Corey Seager",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-77",
+        "name": "Jacob deGrom",
+        "team": "Texas Rangers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-78",
+        "name": "Jacob Wilson",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "SF-79",
+        "name": "Hunter Greene",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "SF-80",
+        "name": "Max Fried",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SF-81",
+        "name": "Freddie Freeman",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-82",
+        "name": "CJ Abrams",
+        "team": "Washington Nationals®",
+        "rookie": false
+      },
+      {
+        "code": "SF-83",
+        "name": "Cody Bellinger",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SF-84",
+        "name": "Chase Dollander",
+        "team": "Colorado Rockies™",
+        "rookie": false
+      },
+      {
+        "code": "SF-85",
+        "name": "Justin Verlander",
+        "team": "Detroit Tigers®",
+        "rookie": false
+      },
+      {
+        "code": "SF-86",
+        "name": "JR Ritchie",
+        "team": "Atlanta Braves™",
+        "rookie": true
+      },
+      {
+        "code": "SF-87",
+        "name": "Byron Buxton",
+        "team": "Minnesota Twins®",
+        "rookie": false
+      },
+      {
+        "code": "SF-88",
+        "name": "Seiya Suzuki",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "SF-89",
+        "name": "Ben Rice",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SF-90",
+        "name": "Travis Bazzana",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "SF-91",
+        "name": "Noah Schultz",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SF-92",
+        "name": "Alex Bregman",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "SF-93",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "SF-94",
+        "name": "Jose Altuve",
+        "team": "Houston Astros®",
+        "rookie": false
+      },
+      {
+        "code": "SF-95",
+        "name": "Salvador Perez",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "SF-96",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "SF-97",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "SF-98",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "SF-99",
+        "name": "Andrew Painter",
+        "team": "Philadelphia Phillies®",
+        "rookie": true
+      },
+      {
+        "code": "SF-100",
+        "name": "Justin Crawford",
+        "team": "Philadelphia Phillies®",
+        "rookie": true
+      }
+    ],
+    "PLANETARY PURSUIT": [
+      {
+        "code": "PPE-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPE-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPE-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPE-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPE-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPE-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPE-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPE-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPE-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPE-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPJ-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPJ-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPJ-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPJ-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPJ-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPJ-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPJ-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPJ-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPJ-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPJ-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPM-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPM-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPM-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPM-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPM-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPM-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPM-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPM-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPM-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPM-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPMA-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPMA-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPMA-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPMA-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPMA-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPMA-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPMA-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPMA-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPMA-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPMA-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPN-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPN-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPN-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPN-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPN-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPN-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPN-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPN-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPN-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPN-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPP-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPP-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPP-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPP-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPP-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPP-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPP-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPP-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPP-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPP-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPS-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPS-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPS-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPS-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPS-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPS-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPS-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPS-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPS-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPS-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPST-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPST-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPST-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPST-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPST-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPST-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPST-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPST-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPST-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPST-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPU-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPU-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPU-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPU-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPU-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPU-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPU-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPU-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPU-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPU-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "PPV-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "PPV-2",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "PPV-3",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "PPV-4",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "PPV-5",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "PPV-6",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPV-7",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "PPV-8",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "PPV-9",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "PPV-10",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      }
+    ],
+    "SUPERNOVA": [
+      {
+        "code": "SN-1",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SN-2",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "SN-3",
+        "name": "Vladimir Guerrero Jr.",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "SN-4",
+        "name": "Freddie Freeman",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SN-5",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "SN-6",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "SN-7",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SN-8",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "SN-9",
+        "name": "Francisco Lindor",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "SN-10",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "SN-11",
+        "name": "Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "SN-12",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "SN-13",
+        "name": "Julio Rodríguez",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "SN-14",
+        "name": "Gunnar Henderson",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "SN-15",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "SN-16",
+        "name": "Yoshinobu Yamamoto",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SN-17",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "SN-18",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": false
+      },
+      {
+        "code": "SN-19",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "SN-20",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "SN-21",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": false
+      },
+      {
+        "code": "SN-22",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "SN-23",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "SN-24",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "SN-25",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": false
+      }
+    ],
+    "COSMIC CHROME AUTOGRAPH VARIATION": [
+      {
+        "code": "CCA-AF",
+        "name": "Alex Freeland",
+        "team": "Los Angeles Dodgers®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-BC",
+        "name": "Bubba Chandler",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-BH",
+        "name": "Brady House",
+        "team": "Washington Nationals®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-BS",
+        "name": "Blake Snell",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-CB",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CBE",
+        "name": "Carson Benge",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CC",
+        "name": "Corbin Carroll",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-CD",
+        "name": "Chase DeLauter",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CH",
+        "name": "Cade Horton",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-CJ",
+        "name": "Carter Jensen",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CK",
+        "name": "C.J. Kayfus",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CM",
+        "name": "Colson Montgomery",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CMO",
+        "name": "Christian Moore",
+        "team": "Angels®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CS",
+        "name": "Chandler Simpson",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "CCA-CSC",
+        "name": "Cam Schlittler",
+        "team": "New York Yankees®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CSM",
+        "name": "Cam Smith",
+        "team": "Houston Astros®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-CW",
+        "name": "Carson Whisenhunt",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CWI",
+        "name": "Carson Williams",
+        "team": "Tampa Bay Rays™",
+        "rookie": true
+      },
+      {
+        "code": "CCA-CYO",
+        "name": "Cole Young",
+        "team": "Seattle Mariners™",
+        "rookie": true
+      },
+      {
+        "code": "CCA-DB",
+        "name": "Drake Baldwin",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "CCA-DBE",
+        "name": "Dylan Beavers",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-DR",
+        "name": "Dalton Rushing",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-HB",
+        "name": "Hunter Barco",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-HH",
+        "name": "Heriberto Hernández Miami Marlins®",
+        "team": "",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JC",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JCR",
+        "name": "Justin Crawford",
+        "team": "Philadelphia Phillies®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JG",
+        "name": "Jhostynxon Garcia",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JJ",
+        "name": "Jeremiah Jackson",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JM",
+        "name": "Jakob Marsee",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JME",
+        "name": "Jacob Melton",
+        "team": "Tampa Bay Rays™",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JMI",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JT",
+        "name": "Jonah Tong",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-JW",
+        "name": "JJ Wetherholt",
+        "team": "St. Louis Cardinals®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-KG",
+        "name": "Konnor Griffin",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-KK",
+        "name": "Kyle Karros",
+        "team": "Colorado Rockies™",
+        "rookie": true
+      },
+      {
+        "code": "CCA-KM",
+        "name": "Kevin McGonigle",
+        "team": "Detroit Tigers®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-KO",
+        "name": "Kazuma Okamoto",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-KT",
+        "name": "Kyle Teel",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-LK",
+        "name": "Luke Keaschall",
+        "team": "Minnesota Twins®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-MF",
+        "name": "Max Fried",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-MM",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-MW",
+        "name": "Masyn Winn",
+        "team": "St. Louis Cardinals®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-NM",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-OC",
+        "name": "Owen Caissie",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-OK",
+        "name": "Otto Kemp",
+        "team": "Philadelphia Phillies®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-PM",
+        "name": "Parker Messick",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-PT",
+        "name": "Payton Tolle",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-RA",
+        "name": "Randy Arozarena",
+        "team": "Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "CCA-RAN",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-RR",
+        "name": "Ryan Ritter",
+        "team": "Colorado Rockies™",
+        "rookie": true
+      },
+      {
+        "code": "CCA-RS",
+        "name": "Roki Sasaki",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-SB",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-SST",
+        "name": "Sal Stewart",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-TB",
+        "name": "Travis Bazzana",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-TI",
+        "name": "Tatsuya Imai",
+        "team": "Houston Astros®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-TT",
+        "name": "Trea Turner",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "CCA-TY",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "CCA-WS",
+        "name": "Will Smith",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      }
+    ],
+    "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION": [
+      {
+        "code": "ETA-BH",
+        "name": "Brady House",
+        "team": "Washington Nationals®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-BW",
+        "name": "Bobby Witt Jr.",
+        "team": "Kansas City Royals®",
+        "rookie": false
+      },
+      {
+        "code": "ETA-CB",
+        "name": "Chase Burns",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-CK",
+        "name": "C.J. Kayfus",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-CM",
+        "name": "Christian Moore",
+        "team": "Angels®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-FT",
+        "name": "Fernando Tatis Jr.",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "ETA-JC",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-JCH",
+        "name": "Jackson Chourio",
+        "team": "Milwaukee Brewers™",
+        "rookie": false
+      },
+      {
+        "code": "ETA-JM",
+        "name": "Jacob Misiorowski",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "ETA-JS",
+        "name": "Juan Soto",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "ETA-JT",
+        "name": "Jonah Tong",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-JW",
+        "name": "James Wood",
+        "team": "Washington Nationals®",
+        "rookie": false
+      },
+      {
+        "code": "ETA-KT",
+        "name": "Kyle Teel",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-MS",
+        "name": "Matt Shaw",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "ETA-NK",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "ETA-OC",
+        "name": "Owen Caissie",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-PS",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "ETA-RA",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-SB",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "ETA-SO",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      }
+    ],
+    "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION": [
+      {
+        "code": "LIOA-AJ",
+        "name": "Aaron Judge",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-AP",
+        "name": "Albert Pujols",
+        "team": "St. Louis Cardinals®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-BB",
+        "name": "Byron Buxton",
+        "team": "Minnesota Twins®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-BBO",
+        "name": "Barry Bonds",
+        "team": "San Francisco Giants®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-BE",
+        "name": "Bryce Eldridge",
+        "team": "San Francisco Giants®",
+        "rookie": true
+      },
+      {
+        "code": "LIOA-BH",
+        "name": "Bryce Harper",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-CB",
+        "name": "Carlos Beltrán",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-CJ",
+        "name": "Chipper Jones",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-CM",
+        "name": "Colson Montgomery",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "LIOA-CR",
+        "name": "Cal Ripken Jr.",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-DO",
+        "name": "David Ortiz",
+        "team": "Boston Red Sox®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-DW",
+        "name": "Dave Winfield",
+        "team": "San Diego Padres™",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-ED",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-FF",
+        "name": "Freddie Freeman",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-FL",
+        "name": "Francisco Lindor",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-FT",
+        "name": "Frank Thomas",
+        "team": "Chicago White Sox®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-JC",
+        "name": "Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      },
+      {
+        "code": "LIOA-JCA",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-JCJ",
+        "name": "Jazz Chisholm Jr.",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-JG",
+        "name": "Jason Giambi",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-KG",
+        "name": "Ken Griffey Jr.",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-MM",
+        "name": "Munetaka Murakami",
+        "team": "Chicago White Sox®",
+        "rookie": true
+      },
+      {
+        "code": "LIOA-MMC",
+        "name": "Mark McGwire",
+        "team": "Oakland Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-MT",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-NK",
+        "name": "Nick Kurtz",
+        "team": "Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-OC",
+        "name": "Owen Caissie",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "LIOA-PC",
+        "name": "Pete Crow-Armstrong",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-RJ",
+        "name": "Reggie Jackson",
+        "team": "California Angels™",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-SB",
+        "name": "Samuel Basallo",
+        "team": "Baltimore Orioles®",
+        "rookie": true
+      },
+      {
+        "code": "LIOA-SO",
+        "name": "Shohei Ohtani",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-SS",
+        "name": "Sammy Sosa",
+        "team": "Chicago Cubs®",
+        "rookie": false
+      },
+      {
+        "code": "LIOA-WL",
+        "name": "Wyatt Langford",
+        "team": "Texas Rangers®",
+        "rookie": false
+      }
+    ],
+    "STAR CLUSTERS DUAL AUTOGRAPHS": [
+      {
+        "code": "SCDA-BJ",
+        "name": "Barry Bonds / Aaron Judge",
+        "team": "San Francisco Giants® / New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SCDA-CM",
+        "name": "Jacob Misiorowski / Jackson Chourio",
+        "team": "Milwaukee Brewers™",
+        "rookie": true
+      },
+      {
+        "code": "SCDA-DB",
+        "name": "Chase Burns / Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": true
+      },
+      {
+        "code": "SCDA-IO",
+        "name": "Shohei Ohtani / Ichiro",
+        "team": "Los Angeles Dodgers® / Seattle Mariners™",
+        "rookie": false
+      },
+      {
+        "code": "SCDA-JR",
+        "name": "Derek Jeter / Mariano Rivera",
+        "team": "New York Yankees®",
+        "rookie": false
+      },
+      {
+        "code": "SCDA-MK",
+        "name": "Nick Kurtz / Mark McGwire",
+        "team": "Athletics™ / Oakland Athletics™",
+        "rookie": false
+      },
+      {
+        "code": "SCDA-MT",
+        "name": "Nolan McLean / Jonah Tong",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "SCDA-PT",
+        "name": "Mike Trout / Albert Pujols",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "SCDA-SL",
+        "name": "Juan Soto / Francisco Lindor",
+        "team": "New York Mets®",
+        "rookie": false
+      },
+      {
+        "code": "SCDA-WC",
+        "name": "Bobby Witt Jr. / Jac Caglianone",
+        "team": "Kansas City Royals®",
+        "rookie": true
+      }
+    ],
+    "STELLAR STARS AUTOGRAPH VARIATION": [
+      {
+        "code": "SSA-BC",
+        "name": "Bubba Chandler",
+        "team": "Pittsburgh Pirates®",
+        "rookie": true
+      },
+      {
+        "code": "SSA-CC",
+        "name": "Corbin Carroll",
+        "team": "Arizona Diamondbacks®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-CD",
+        "name": "Chase DeLauter",
+        "team": "Cleveland Guardians®",
+        "rookie": true
+      },
+      {
+        "code": "SSA-ED",
+        "name": "Elly De La Cruz",
+        "team": "Cincinnati Reds®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-GH",
+        "name": "Gunnar Henderson",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-JC",
+        "name": "Junior Caminero",
+        "team": "Tampa Bay Rays™",
+        "rookie": false
+      },
+      {
+        "code": "SSA-JCH",
+        "name": "Jackson Chourio",
+        "team": "Milwaukee Brewers™",
+        "rookie": false
+      },
+      {
+        "code": "SSA-JH",
+        "name": "Jackson Holliday",
+        "team": "Baltimore Orioles®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-JW",
+        "name": "James Wood",
+        "team": "Washington Nationals®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-KT",
+        "name": "Kyle Tucker",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-MB",
+        "name": "Mookie Betts",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-MT",
+        "name": "Mike Trout",
+        "team": "Angels®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-NM",
+        "name": "Nolan McLean",
+        "team": "New York Mets®",
+        "rookie": true
+      },
+      {
+        "code": "SSA-OC",
+        "name": "Owen Caissie",
+        "team": "Miami Marlins®",
+        "rookie": true
+      },
+      {
+        "code": "SSA-PS",
+        "name": "Paul Skenes",
+        "team": "Pittsburgh Pirates®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-RA",
+        "name": "Roman Anthony",
+        "team": "Boston Red Sox®",
+        "rookie": true
+      },
+      {
+        "code": "SSA-RAJ",
+        "name": "Ronald Acuña Jr.",
+        "team": "Atlanta Braves™",
+        "rookie": false
+      },
+      {
+        "code": "SSA-RS",
+        "name": "Roki Sasaki",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-TY",
+        "name": "Trey Yesavage",
+        "team": "Toronto Blue Jays®",
+        "rookie": true
+      },
+      {
+        "code": "SSA-YY",
+        "name": "Yoshinobu Yamamoto",
+        "team": "Los Angeles Dodgers®",
+        "rookie": false
+      },
+      {
+        "code": "SSA-ZW",
+        "name": "Zack Wheeler",
+        "team": "Philadelphia Phillies®",
+        "rookie": false
+      }
+    ],
+    "COSMIC EXPLORERS CUT SIGNATURES": [
+      {
+        "code": "CECS-AB",
+        "name": "Alan Bean",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-AE",
+        "name": "Albert Einstein",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-AS",
+        "name": "Alan Shepard",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-BA",
+        "name": "Buzz Aldrin",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-CS",
+        "name": "Carl Sagan",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-EH",
+        "name": "Edwin Hubble",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-JG",
+        "name": "John Glenn",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-JL",
+        "name": "Jim Lovell",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-JW",
+        "name": "James Webb",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-MC",
+        "name": "Michael Collins",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-NA",
+        "name": "Neil Armstrong",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-NB",
+        "name": "Niels Bohr",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-PC",
+        "name": "Pete Conrad",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-SC",
+        "name": "Scott Carpenter",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-SN",
+        "name": "Sir Isaac Newton",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-SR",
+        "name": "Sally Ride",
+        "team": "",
+        "rookie": false
+      },
+      {
+        "code": "CECS-VG",
+        "name": "Virgil \"Gus\" Grissom",
+        "team": "",
+        "rookie": false
+      }
+    ]
+  },
+  "odds": [
+    {
+      "id": "cosmic26-001",
+      "name": "BASE CARDS REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 10,
+        "lunar": 10
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-002",
+      "name": "BASE CARDS NUCLEUS REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 20,
+        "lunar": 20
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-003",
+      "name": "BASE CARDS WHITE HOLE REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 40,
+        "lunar": 40
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-004",
+      "name": "BASE CARDS MAGENTA COSMOS REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 25,
+        "lunar": 25
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-005",
+      "name": "BASE CARDS AQUA EQUINOX REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 38,
+        "lunar": 38
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-006",
+      "name": "BASE CARDS PURPLE NEBULA REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 50,
+        "lunar": 50
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-007",
+      "name": "BASE CARDS BLUE MOON REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 76,
+        "lunar": 76
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-008",
+      "name": "BASE CARDS GREEN SPACE DUST REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 101,
+        "lunar": 100
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-009",
+      "name": "BASE CARDS GOLD INTERSTELLAR REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 151,
+        "lunar": 151
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-010",
+      "name": "BASE CARDS ORANGE GALACTIC REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 303,
+        "lunar": 301
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-011",
+      "name": "BASE CARDS BLACK ECLIPSE REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 757,
+        "lunar": 754
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-012",
+      "name": "BASE CARDS LUNAR ECLIPSE REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": null,
+        "lunar": 2
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-013",
+      "name": "BASE CARDS RED FLARE REFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 1513,
+        "lunar": 1507
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-014",
+      "name": "BASE CARDS SUPERFRACTOR",
+      "section": "BASE CARDS",
+      "odds": {
+        "hobby": 7567,
+        "lunar": 7586
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-015",
+      "name": "BASE CARD ANTI-GRAVITY VARIATION",
+      "section": "BASE CARDS ANTI GRAVITY VARIATION",
+      "odds": {
+        "hobby": 961,
+        "lunar": 963
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-016",
+      "name": "BASE CARD ANTI-GRAVITY VARIATION BLACK ECLIPSE REFRACTOR",
+      "section": "BASE CARDS ANTI GRAVITY VARIATION",
+      "odds": {
+        "hobby": 6100,
+        "lunar": 6100
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-017",
+      "name": "BASE CARD ANTI-GRAVITY VARIATION RED FLARE REFRACTOR",
+      "section": "BASE CARDS ANTI GRAVITY VARIATION",
+      "odds": {
+        "hobby": 12303,
+        "lunar": 12303
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-018",
+      "name": "BASE CARD ANTI-GRAVITY VARIATION SUPERFRACTOR",
+      "section": "BASE CARDS ANTI GRAVITY VARIATION",
+      "odds": {
+        "hobby": 66552,
+        "lunar": 66552
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-019",
+      "name": "BASE CARD CONSTELLATION VARITION",
+      "section": "BASE CARDS CONSTELLATION VARIATION",
+      "odds": {
+        "hobby": 605,
+        "lunar": 607
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-020",
+      "name": "COSMIC DUST",
+      "section": "COSMIC DUST",
+      "odds": {
+        "hobby": 606,
+        "lunar": 607
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-021",
+      "name": "DUAL STAR CLUSTER",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": 25,
+        "lunar": 25
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-022",
+      "name": "DUAL STAR CLUSTER BLUE MOON REFRACTOR",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": 1911,
+        "lunar": 1903
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-023",
+      "name": "DUAL STAR CLUSTER GREEN SPACE DUST REFRACTOR",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": 2522,
+        "lunar": 2528
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-024",
+      "name": "DUAL STAR CLUSTER GOLD INTERSTELLAR REFRACTOR",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": 3793,
+        "lunar": 3793
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-025",
+      "name": "DUAL STAR CLUSTER ORANGE GALACTIC REFRACTOR",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": 7567,
+        "lunar": 7535
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-026",
+      "name": "DUAL STAR CLUSTER BLACK ECLIPSE REFRACTOR",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": 19265,
+        "lunar": 19265
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-027",
+      "name": "DUAL STAR CLUSTER LUNAR EXCLIPSE REFRACTOR",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": null,
+        "lunar": 51
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-028",
+      "name": "DUAL STAR CLUSTER RED FLARE REFRACTOR",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": 39571,
+        "lunar": 39571
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-029",
+      "name": "DUAL STAR CLUSTER SUPERFRACTOR",
+      "section": "DUAL STAR CLUSTERS",
+      "odds": {
+        "hobby": 292832,
+        "lunar": 292832
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-030",
+      "name": "EXTRATERRESTRIAL TALENT",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": 6,
+        "lunar": 6
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-031",
+      "name": "EXTRATERRESTRIAL TALENT BLUE MOON REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": 437,
+        "lunar": 435
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-032",
+      "name": "EXTRATERRESTRIAL TALENT GREEN SPACE DUST REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": 577,
+        "lunar": 575
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-033",
+      "name": "EXTRATERRESTRIAL TALENT GOLD INTERSTELLAR REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": 865,
+        "lunar": 862
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-034",
+      "name": "EXTRATERRESTRIAL TALENT ORANGE GALACTIC REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": 1732,
+        "lunar": 1736
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-035",
+      "name": "EXTRATERRESTRIAL TALENT BLACK ECLIPSE REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": 4344,
+        "lunar": 4344
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-036",
+      "name": "EXTRATERRESTRIAL TALENT LUNAR EXCLIPSE REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": null,
+        "lunar": 11
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-037",
+      "name": "EXTRATERRESTRIAL TALENT RED FLARE REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": 8715,
+        "lunar": 8715
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-038",
+      "name": "EXTRATERRESTRIAL TALENT SUPERFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT",
+      "odds": {
+        "hobby": 45755,
+        "lunar": 45755
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-039",
+      "name": "FORCES OF THE DIAMOND",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": 8,
+        "lunar": 8
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-040",
+      "name": "FORCES OF THE DIAMOND BLUE MOON REFRACTOR",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": 612,
+        "lunar": 609
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-041",
+      "name": "FORCES OF THE DIAMOND GREEN SPACE DUST REFRACTOR",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": 808,
+        "lunar": 804
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-042",
+      "name": "FORCES OF THE DIAMOND GOLD INTERSTELLAR REFRACTOR",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": 1212,
+        "lunar": 1207
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-043",
+      "name": "FORCES OF THE DIAMOND ORANGE GALACTIC REFRACTOR",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": 2430,
+        "lunar": 2436
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-044",
+      "name": "FORCES OF THE DIAMOND BLACK ECLIPSE REFRACTOR",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": 6100,
+        "lunar": 6100
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-045",
+      "name": "FORCES OF THE DIAMOND LUNAR EXCLIPSE REFRACTOR",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": null,
+        "lunar": 16
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-046",
+      "name": "FORCES OF THE DIAMOND RED FLARE REFRACTOR",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": 12303,
+        "lunar": 12303
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-047",
+      "name": "FORCES OF THE DIAMOND SUPERFRACTOR",
+      "section": "FORCES OF THE DIAMOND",
+      "odds": {
+        "hobby": 66552,
+        "lunar": 66552
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-048",
+      "name": "LAUNCHED INTO ORBIT",
+      "section": "LAUNCHED INTO ORBIT",
+      "odds": {
+        "hobby": 40,
+        "lunar": 40
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-049",
+      "name": "LAUNCHED INTO ORBIT GREEN SPACE DUST REFRACTOR",
+      "section": "LAUNCHED INTO ORBIT",
+      "odds": {
+        "hobby": 404,
+        "lunar": 402
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-050",
+      "name": "LAUNCHED INTO ORBIT GOLD INTERSTELLAR REFRACTOR",
+      "section": "LAUNCHED INTO ORBIT",
+      "odds": {
+        "hobby": 605,
+        "lunar": 603
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-051",
+      "name": "LAUNCHED INTO ORBIT ORANGE GALACTIC REFRACTOR",
+      "section": "LAUNCHED INTO ORBIT",
+      "odds": {
+        "hobby": 1212,
+        "lunar": 1215
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-052",
+      "name": "LAUNCHED INTO ORBIT BLACK ECLIPSE REFRACTOR",
+      "section": "LAUNCHED INTO ORBIT",
+      "odds": {
+        "hobby": 3037,
+        "lunar": 3037
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-053",
+      "name": "LAUNCHED INTO ORBIT LUNAR EXCLIPSE REFRACTOR",
+      "section": "LAUNCHED INTO ORBIT",
+      "odds": {
+        "hobby": null,
+        "lunar": 8
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-054",
+      "name": "LAUNCHED INTO ORBIT RED FLARE REFRACTOR",
+      "section": "LAUNCHED INTO ORBIT",
+      "odds": {
+        "hobby": 6100,
+        "lunar": 6100
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-055",
+      "name": "LAUNCHED INTO ORBIT SUPERFRACTOR",
+      "section": "LAUNCHED INTO ORBIT",
+      "odds": {
+        "hobby": 31152,
+        "lunar": 31152
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-056",
+      "name": "MARS ATTACKS MLB",
+      "section": "MARS ATTACKS MLB",
+      "odds": {
+        "hobby": 1513,
+        "lunar": 1517
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-057",
+      "name": "PLANETARIUM",
+      "section": "PLANETARIUM",
+      "odds": {
+        "hobby": 961,
+        "lunar": 963
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-058",
+      "name": "PLANETARIUM BLACK ECLIPSE REFRACTOR",
+      "section": "PLANETARIUM",
+      "odds": {
+        "hobby": 6100,
+        "lunar": 6100
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-059",
+      "name": "PLANETARIUM RED FLARE REFRACTOR",
+      "section": "PLANETARIUM",
+      "odds": {
+        "hobby": 12303,
+        "lunar": 12303
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-060",
+      "name": "PLANETARIUM SUPERFRACTOR",
+      "section": "PLANETARIUM",
+      "odds": {
+        "hobby": 66552,
+        "lunar": 66552
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-061",
+      "name": "PLANETARY PURSUIT SUN",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 120,
+        "lunar": 120
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-062",
+      "name": "PLANETARY PURSUIT MERCURY",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 480,
+        "lunar": 480
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-063",
+      "name": "PLANETARY PURSUIT VENUS",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 720,
+        "lunar": 720
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-064",
+      "name": "PLANETARY PURSUIT EARTH",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 1200,
+        "lunar": 1200
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-065",
+      "name": "PLANETARY PURSUIT MARS",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 1680,
+        "lunar": 1680
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-066",
+      "name": "PLANETARY PURSUIT JUPITER",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 4800,
+        "lunar": 4800
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-067",
+      "name": "PLANETARY PURSUIT SATURN",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 7500,
+        "lunar": 7500
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-068",
+      "name": "PLANETARY PURSUIT URANUS",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 12000,
+        "lunar": 12000
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-069",
+      "name": "PLANETARY PURSUIT NEPTUNE",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 20000,
+        "lunar": 20000
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-070",
+      "name": "PLANETARY PURSUIT PLUTO",
+      "section": "PLANETARY PURSUIT",
+      "odds": {
+        "hobby": 28000,
+        "lunar": 28000
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-071",
+      "name": "STARFRACTOR",
+      "section": "STARFRACTOR",
+      "odds": {
+        "hobby": 282,
+        "lunar": 283
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-072",
+      "name": "STARFRACTOR ORANGE REFRACTOR",
+      "section": "STARFRACTOR",
+      "odds": {
+        "hobby": 605,
+        "lunar": 603
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-073",
+      "name": "STARFRACTOR BLACK REFRACTOR",
+      "section": "STARFRACTOR",
+      "odds": {
+        "hobby": 1513,
+        "lunar": 1517
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-074",
+      "name": "STARFRACTOR RED REFRACTOR",
+      "section": "STARFRACTOR",
+      "odds": {
+        "hobby": 3037,
+        "lunar": 3037
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-075",
+      "name": "STARFRACTOR PINK REFRACTOR",
+      "section": "STARFRACTOR",
+      "odds": {
+        "hobby": 15251,
+        "lunar": 15251
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-076",
+      "name": "STARS IN THE NIGHT",
+      "section": "STARS IN THE NIGHT",
+      "odds": {
+        "hobby": 80,
+        "lunar": 80
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-077",
+      "name": "STARS IN THE NIGHT GREEN SPACE DUST REFRACTOR",
+      "section": "STARS IN THE NIGHT",
+      "odds": {
+        "hobby": 808,
+        "lunar": 804
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-078",
+      "name": "STARS IN THE NIGHT GOLD INTERSTELLAR REFRACTOR",
+      "section": "STARS IN THE NIGHT",
+      "odds": {
+        "hobby": 1212,
+        "lunar": 1215
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-079",
+      "name": "STARS IN THE NIGHT ORANGE GALACTIC REFRACTOR",
+      "section": "STARS IN THE NIGHT",
+      "odds": {
+        "hobby": 2430,
+        "lunar": 2436
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-080",
+      "name": "STARS IN THE NIGHT BLACK ECLIPSE REFRACTOR",
+      "section": "STARS IN THE NIGHT",
+      "odds": {
+        "hobby": 6100,
+        "lunar": 6100
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-081",
+      "name": "STARS IN THE NIGHT LUNAR EXCLIPSE REFRACTOR",
+      "section": "STARS IN THE NIGHT",
+      "odds": {
+        "hobby": null,
+        "lunar": 16
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-082",
+      "name": "STARS IN THE NIGHT RED FLARE REFRACTOR",
+      "section": "STARS IN THE NIGHT",
+      "odds": {
+        "hobby": 12303,
+        "lunar": 12303
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-083",
+      "name": "STARS IN THE NIGHT SUPERFRACTOR",
+      "section": "STARS IN THE NIGHT",
+      "odds": {
+        "hobby": 66552,
+        "lunar": 66552
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-084",
+      "name": "STELLA NOVA",
+      "section": "STELLA NOVA",
+      "odds": {
+        "hobby": 80,
+        "lunar": 80
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-085",
+      "name": "STELLA NOVA GREEN SPACE DUST REFRACTOR",
+      "section": "STELLA NOVA",
+      "odds": {
+        "hobby": 808,
+        "lunar": 804
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-086",
+      "name": "STELLA NOVA GOLD INTERSTELLAR REFRACTOR",
+      "section": "STELLA NOVA",
+      "odds": {
+        "hobby": 1212,
+        "lunar": 1215
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-087",
+      "name": "STELLA NOVA ORANGE GALACTIC REFRACTOR",
+      "section": "STELLA NOVA",
+      "odds": {
+        "hobby": 2430,
+        "lunar": 2436
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-088",
+      "name": "STELLA NOVA BLACK ECLIPSE REFRACTOR",
+      "section": "STELLA NOVA",
+      "odds": {
+        "hobby": 6100,
+        "lunar": 6100
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-089",
+      "name": "STELLA NOVA LUNAR EXCLIPSE REFRACTOR",
+      "section": "STELLA NOVA",
+      "odds": {
+        "hobby": null,
+        "lunar": 16
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-090",
+      "name": "STELLA NOVA RED FLARE REFRACTOR",
+      "section": "STELLA NOVA",
+      "odds": {
+        "hobby": 12303,
+        "lunar": 12303
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-091",
+      "name": "STELLA NOVA SUPERFRACTOR",
+      "section": "STELLA NOVA",
+      "odds": {
+        "hobby": 66552,
+        "lunar": 66552
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-092",
+      "name": "STELLAR STARS",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": 8,
+        "lunar": 8
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-093",
+      "name": "STELLAR STARS BLUE MOON REFRACTOR",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": 612,
+        "lunar": 609
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-094",
+      "name": "STELLAR STARS GREEN SPACE DUST REFRACTOR",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": 808,
+        "lunar": 804
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-095",
+      "name": "STELLAR STARS GOLD INTERSTELLAR REFRACTOR",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": 1212,
+        "lunar": 1207
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-096",
+      "name": "STELLAR STARS ORANGE GALACTIC REFRACTOR",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": 2430,
+        "lunar": 2436
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-097",
+      "name": "STELLAR STARS BLACK ECLIPSE REFRACTOR",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": 6100,
+        "lunar": 6100
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-098",
+      "name": "STELLAR STARS LUNAR EXCLIPSE REFRACTOR",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": null,
+        "lunar": 16
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-099",
+      "name": "STELLAR STARS RED FLARE REFRACTOR",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": 12303,
+        "lunar": 12303
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-100",
+      "name": "STELLAR STARS SUPERFRACTOR",
+      "section": "STELLAR STARS",
+      "odds": {
+        "hobby": 66552,
+        "lunar": 66552
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-101",
+      "name": "SUPERNOVA",
+      "section": "SUPERNOVA",
+      "odds": {
+        "hobby": 1214,
+        "lunar": 77
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-102",
+      "name": "TRIPLE STAR CLUSTERS",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": 29,
+        "lunar": 29
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-103",
+      "name": "TRIPLE STAR CLUSTERS BLUE MOON REFRACTOR",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": 2186,
+        "lunar": 2177
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-104",
+      "name": "TRIPLE STAR CLUSTERS GREEN SPACE DUST REFRACTOR",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": 2892,
+        "lunar": 2899
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-105",
+      "name": "TRIPLE STAR CLUSTERS GOLD INTERSTELLAR REFRACTOR",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": 4344,
+        "lunar": 4344
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-106",
+      "name": "TRIPLE STAR CLUSTERS ORANGE GALACTIC REFRACTOR",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": 8715,
+        "lunar": 8715
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-107",
+      "name": "TRIPLE STAR CLUSTERS BLACK ECLIPSE REFRACTOR",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": 22184,
+        "lunar": 22184
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-108",
+      "name": "TRIPLE STAR CLUSTERS LUNAR EXCLIPSE REFRACTOR",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": null,
+        "lunar": 58
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-109",
+      "name": "TRIPLE STAR CLUSTERS RED FLARE REFRACTOR",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": 45755,
+        "lunar": 45755
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-110",
+      "name": "TRIPLE STAR CLUSTERS SUPERFRACTOR",
+      "section": "TRIPLE STAR CLUSTERS",
+      "odds": {
+        "hobby": 366040,
+        "lunar": 366040
+      },
+      "auto": false,
+      "relic": false,
+      "hit": false
+    },
+    {
+      "id": "cosmic26-111",
+      "name": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "section": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 136,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-112",
+      "name": "COSMIC CHROME AUTOGRAPH VARIATION GREEN SPACE DUST REFRACTOR",
+      "section": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 391,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-113",
+      "name": "COSMIC CHROME AUTOGRAPH VARIATION GOLD INTERSTELLAR REFRACTOR",
+      "section": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 547,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-114",
+      "name": "COSMIC CHROME AUTOGRAPH VARIATION ORANGE GALACTIC REFRACTOR",
+      "section": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 1079,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-115",
+      "name": "COSMIC CHROME AUTOGRAPH VARIATION BLACK ECLIPSE REFRACTOR",
+      "section": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 2617,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-116",
+      "name": "COSMIC CHROME AUTOGRAPH VARIATION LUNAR EXCLIPSE REFRACTOR",
+      "section": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": null,
+        "lunar": 37
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-117",
+      "name": "COSMIC CHROME AUTOGRAPH VARIATION RED FLARE REFRACTOR",
+      "section": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 5310,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-118",
+      "name": "COSMIC CHROME AUTOGRAPH VARIATION SUPERFRACTOR",
+      "section": "COSMIC CHROME AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 25177,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-119",
+      "name": "COSMIC EXPLORERS CUT SIGNATURE",
+      "section": "COSMIC EXPLORERS CUT SIGNATURES",
+      "odds": {
+        "hobby": 85901,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-120",
+      "name": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "section": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 653,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-121",
+      "name": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION GREEN SPACE DUST REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 1947,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-122",
+      "name": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION GOLD INTERSTELLAR REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 1724,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-123",
+      "name": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION ORANGE GALACTIC REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 3318,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-124",
+      "name": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION BLACK ECLIPSE REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 8392,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-125",
+      "name": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION LUNAR EXCLIPSE REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": null,
+        "lunar": 96
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-126",
+      "name": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION RED FLARE REFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 15702,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-127",
+      "name": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION SUPERFRACTOR",
+      "section": "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 76858,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-128",
+      "name": "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION",
+      "section": "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 1051,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-129",
+      "name": "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION BLACK ECLIPSE REFRACTOR",
+      "section": "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 4867,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-130",
+      "name": "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION RED FLARE REFRACTOR",
+      "section": "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 9934,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-131",
+      "name": "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION SUPERFRACTOR",
+      "section": "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 47107,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-132",
+      "name": "STAR CLUSTERS DUAL AUTOGRAPH",
+      "section": "STAR CLUSTERS DUAL AUTOGRAPHS",
+      "odds": {
+        "hobby": 15535,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-133",
+      "name": "STAR CLUSTERS DUAL AUTOGRAPH RED FLARE REFRACTOR",
+      "section": "STAR CLUSTERS DUAL AUTOGRAPHS",
+      "odds": {
+        "hobby": 30423,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-134",
+      "name": "STAR CLUSTERS DUAL AUTOGRAPH SUPERFRACTOR",
+      "section": "STAR CLUSTERS DUAL AUTOGRAPHS",
+      "odds": {
+        "hobby": 146032,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-135",
+      "name": "STELLAR STARS AUTOGRAPH VARIATION",
+      "section": "STELLAR STARS AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 1622,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-136",
+      "name": "STELLAR STARS AUTOGRAPH VARIATION BLACK ECLIPSE REFRACTOR",
+      "section": "STELLAR STARS AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 7338,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-137",
+      "name": "STELLAR STARS AUTOGRAPH VARIATION RED FLARE REFRACTOR",
+      "section": "STELLAR STARS AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 14750,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    },
+    {
+      "id": "cosmic26-138",
+      "name": "STELLAR STARS AUTOGRAPH VARIATION SUPERFRACTOR",
+      "section": "STELLAR STARS AUTOGRAPH VARIATION",
+      "odds": {
+        "hobby": 81128,
+        "lunar": null
+      },
+      "auto": true,
+      "relic": false,
+      "hit": true
+    }
+  ],
+  "autographSections": [
+    "COSMIC CHROME AUTOGRAPH VARIATION",
+    "COSMIC EXPLORERS CUT SIGNATURES",
+    "EXTRATERRESTRIAL TALENT AUTOGRAPH VARIATION",
+    "LAUNCHED INTO ORBIT AUTOGRAPH VARIATION",
+    "STAR CLUSTERS DUAL AUTOGRAPHS",
+    "STELLAR STARS AUTOGRAPH VARIATION"
+  ],
+  "audit": {
+    "hobby": {
+      "publishedRows": 127,
+      "expectedNonBasePerPack": 0.9119954785840043,
+      "expectedNonBasePerBox": 18.239909571680087,
+      "naturalExpectedAutosPerBox": 0.3725072722796738
+    },
+    "lunar": {
+      "publishedRows": 112,
+      "expectedNonBasePerPack": 1.9459181995470511,
+      "expectedNonBasePerBox": 38.918363990941025,
+      "naturalExpectedAutosPerBox": 0.7488738738738738
+    }
+  }
+}

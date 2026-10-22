@@ -88,4 +88,16 @@ for(let i=0,random=rng(2602);i<1000;i++){
  const cards=E.generateBox(update,'value',random).packs.flat();
  assert.equal(cards.filter(c=>c.holiday).length,3);
 }
+const cosmic=products.find(p=>p.id.includes('cosmic-chrome'));
+assert.equal(cosmic.sections['BASE CARDS'].length,200);
+assert.equal(cosmic.odds.length,138);
+assert.deepEqual(Object.keys(cosmic.config.formats),['hobby','lunar']);
+assert.equal(cosmic.config.formats.hobby.packs,20);
+assert.equal(cosmic.config.formats.hobby.cards,4);
+assert.equal(cosmic.config.formats.lunar.packs,20);
+assert.equal(cosmic.config.formats.lunar.cards,4);
+assert.equal(cosmic.odds.find(r=>r.name==='BASE CARDS LUNAR ECLIPSE REFRACTOR').odds.hobby,null);
+assert.equal(cosmic.odds.find(r=>r.name==='BASE CARDS LUNAR ECLIPSE REFRACTOR').odds.lunar,2);
+assert.ok(cosmic.odds.find(r=>r.name==='COSMIC EXPLORERS CUT SIGNATURE').auto);
+assert.ok(cosmic.sections['STAR CLUSTERS DUAL AUTOGRAPHS'].some(c=>c.name.includes(' / ')));
 console.log('PASS: source mappings, distinct guarantees, per-pack frequency, no unconditional extra hits.');
